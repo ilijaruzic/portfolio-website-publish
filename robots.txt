@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /thank-you
+Disallow: /forbidden
+Disallow: /rs/thank-you
+Disallow: /rs/forbidden
+Disallow: /ru/thank-you
+Disallow: /ru/forbidden
+Disallow: /it/thank-you
+Disallow: /it/forbidden
+
+Sitemap: https://ilijaruzic.rs/sitemap.xml

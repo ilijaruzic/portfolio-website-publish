@@ -1,0 +1,305 @@
+{
+  "header": {
+    "warnings": "",
+    "home": "home",
+    "blog": "blog",
+    "education": "education",
+    "experience": {
+      "title": "experience",
+      "work": "work",
+      "projects": "projects",
+      "scripts": "scripts"
+    },
+    "contact": "contact",
+    "resume": {
+      "title": "résumé",
+      "subject": "Résumé enquiry | ilijaruzic.rs",
+      "email": "contact@ilijaruzic.rs"
+    },
+    "languages": {
+      "gb": "english",
+      "rs": "serbian",
+      "ru": "russian",
+      "it": "italian"
+    }
+  },
+  "home": {
+    "title": "👋🏻 i'm ilija.",
+    "title-alt": "...or elijah. 😉",
+    "subtitle": "electrical & computer engineer",
+    "description": "born in 1996, i currently live in belgrade. i'm passionate about electronics and computing, so i often tinker with home projects in those fields. i also love travelling, reading and playing video games.",
+    "projects": {
+      "title": "projects",
+      "seeAll": "see all",
+      "description": "welcome to the projects section of my portfolio! here you’ll find an overview of some of my latest and most notable work. each project represents a unique challenge that i tackled with creativity and ingenuity."
+    }
+  },
+  "education": {
+    "education": {
+      "title": "education",
+      "institutes": {
+        "high-school": {
+          "title": "school of economics",
+          "location": "kragujevac, serbia",
+          "degree": "financial administrator",
+          "field": "economy and finance",
+          "url": "https://www.ekonomskakg.edu.rs"
+        },
+        "bachelor": {
+          "title": "school of electrical engineering, university of belgrade",
+          "location": "belgrade, serbia",
+          "degree": "bachelor’s degree",
+          "field": "electrical engineering and computing",
+          "url": "https://www.etf.bg.ac.rs/en"
+        }
+      }
+    },
+    "skills": {
+      "title": "skills",
+      "subtitle": "welcome to the skills section of my portfolio, where i provide a comprehensive overview of my expertise.",
+      "tools-title": "tools",
+      "design": {
+        "title": "design",
+        "subtitle": "design is a powerful tool that turns ideas into reality."
+      },
+      "programming": {
+        "title": "programming",
+        "subtitle": "programming lets ideas come to life through code."
+      },
+      "teaching": {
+        "title": "teaching",
+        "subtitle": "teaching is an art that calls for patience, empathy and a commitment to lifelong learning."
+      },
+      "automation-ai": {
+        "title": "automation & ai",
+        "subtitle": "ai raises significant ethical and social questions that must be considered carefully.",
+        "tool-title-1": "signal processing, machine learning",
+        "tool-title-2": "biomedical engineering and electronics"
+      }
+    }
+  },
+  "experience": {
+    "work": {
+      "title": "experience",
+      "professional": {
+        "title": "professional experience",
+        "org-2": {
+          "role": "software engineer",
+          "company": "proctorio",
+          "companyUrl": "https://proctorio.com",
+          "location": "belgrade, serbia",
+          "techStack": "js, c#, .net, sql, ml, azure",
+          "summary": {
+            "item-1": "implemented features with js, c# and machine learning for proctorio’s automated proctoring platform.",
+            "item-2": "collaborated across teams to design and architect secure, efficient proctoring systems.",
+            "item-3": "used azure devops pipelines and build agents to ensure high-quality code, fix defects, optimise performance and boost reliability for a seamless user experience.",
+            "item-4": "documented software designs and specifications for clarity and maintainability."
+          },
+          "from": "may 2023",
+          "to": "present"
+        },
+        "org-1": {
+          "role": "lecturer",
+          "company": "self-employed",
+          "companyUrl": "https://ilijaruzic.rs",
+          "location": "belgrade, serbia",
+          "techStack": "mathematics, digital electronics, signal processing, programming, bioinformatics",
+          "summary": {
+            "item-1": "empowered students with engaging lectures in maths and computer science, nurturing their problem-solving skills and passion for tech."
+          },
+          "from": "jan 2021",
+          "to": "present"
+        }
+      },
+      "volunteering": {
+        "title": "volunteering experience",
+        "org-1": {
+          "role": "member",
+          "company": "google developer student club",
+          "companyUrl": "https://gdsc.community.dev/university-of-belgrade-belgrade-serbia",
+          "location": "belgrade, serbia",
+          "from": "oct 2020",
+          "to": "present"
+        }
+      },
+      "courses": {
+        "title": "courses and seminars",
+        "course-1": {
+          "name": "regional entrepreneurship competition",
+          "location": "junior achievement serbia, belgrade, serbia"
+        },
+        "course-2": {
+          "name": "narrative design bootcamp",
+          "location": "nordeus, belgrade, serbia"
+        },
+        "course-3": {
+          "name": "gamedev bootcamp",
+          "location": "nordeus, belgrade, serbia"
+        },
+        "course-4": {
+          "name": "17th alakajam! game jam",
+          "location": "alakajam.com/17th-alakajam"
+        }
+      }
+    },
+    "projects": {
+      "title": "projects"
+    },
+    "scripts": {
+      "title": "scripts and papers",
+      "script-1": {
+        "title": "complex numbers",
+        "subtitle": "forum.matemanija.com"
+      },
+      "script-2": {
+        "title": "fourier series and fourier transform",
+        "subtitle": "signals and systems"
+      },
+      "script-3": {
+        "title": "lagrange interpolating polynomial",
+        "subtitle": "numerical analysis"
+      }
+    }
+  },
+  "contact": {
+    "title": "contact",
+    "subtitle": "feel free to reach out using any of the methods below — i’ll reply as soon as i can.",
+    "coffee-link": "buy me a coffee ❤️",
+    "email-link": "contact@ilijaruzic.rs",
+    "form": {
+      "name": {
+        "title": "name",
+        "errors": {
+          "required": "* name is required",
+          "length": "* name can be up to 20 characters",
+          "pattern": "* name must include at least one letter and no leading/trailing symbols"
+        }
+      },
+      "email": {
+        "title": "email address",
+        "errors": {
+          "required": "* email address is required",
+          "pattern": "* please enter a valid email address"
+        }
+      },
+      "subject": {
+        "title": "subject",
+        "errors": {
+          "required": "* subject is required",
+          "length": "* subject can be up to 100 characters"
+        }
+      },
+      "message": {
+        "title": "message",
+        "errors": {
+          "required": "* message is required",
+          "min-length": "* message must be at least 10 characters",
+          "max-length": "* message can be up to 10 000 characters"
+        }
+      },
+      "submission": "send message"
+    },
+    "thank-you": {
+      "title": "thank you for reaching out! 🎉",
+      "subtitle": "i’ve received your message successfully.",
+      "description": "thanks for taking the time to contact me — i’ll get back to you as soon as possible.",
+      "redirect": "you’ll be redirected to the homepage in",
+      "time": "s"
+    }
+  },
+  "footer": {
+    "year": "© 2023-2025 ",
+    "name": "ilijaruzic.rs",
+    "copyright": "",
+    "policies": "policies"
+  },
+  "cookies": {
+    "title": "additional cookies?",
+    "functional": "functional",
+    "analytics": "analytics",
+    "yes": "sure!",
+    "no": "no, thanks"
+  },
+  "loading": {
+    "title": "loading... 🔃",
+    "subtitle": "please wait while we load the content — this might take a moment."
+  },
+  "errors": {
+    "under-construction": {
+      "title": "under construction! 🚧",
+      "subtitle": "stay tuned.",
+      "description": "the blog section is still under construction, but feel free to explore the main site and check out the projects already available."
+    },
+    "403": {
+      "title": "oops! ⛔",
+      "subtitle": "403 — forbidden.",
+      "description": "the page you’re trying to access is restricted."
+    },
+    "404": {
+      "title": "oops! 😥",
+      "subtitle": "404 — page not found.",
+      "description": "the page you’re looking for has been removed or is temporarily unavailable."
+    },
+    "zoom-guard": {
+      "title": "unsupported zoom level! 🔎",
+      "message": "zoom outside the supported range (50 %–250 %). please reset it."
+    }
+  },
+  "policies": {
+    "heading": "policies",
+    "navigation-label": "policies navigation",
+    "privacy-link": "🔒 privacy policy",
+    "security-link": "🛡️ security policy",
+    "privacy-policy": {
+      "heading": "privacy policy",
+      "last-updated": "last updated: 06/06/2025",
+      "intro-paragraph": "this privacy policy explains how ilijaruzic.rs (“the website”) handles user data.",
+      "data-title": "data collection",
+      "data-text": "the website uses certain cookies and similar technologies to enhance your experience and enable core functionality, including:",
+      "data-list": [
+        "the ‘theme’ cookie to manage light/dark mode",
+        "the ‘locale’ cookie to set language (en/rs/ru/it)",
+        "the ‘cookie-consent’ cookie to remember your preference",
+        "personal data (name and email) used solely for the contact form"
+      ],
+      "no-data-text": "the website does not collect:",
+      "no-data-list": [
+        "additional personal or usage data beyond what is necessary",
+        "your IP address, browser type or device information for tracking",
+        "third-party social media data for login or profiling"
+      ],
+      "links-title": "links to other sites",
+      "links-text": "the site may link to external pages that i do not operate. please review their privacy policies, as i’m not responsible for their content or practices.",
+      "changes-title": "changes to this policy",
+      "changes-text": "this policy may be updated from time to time; any revisions will appear on this page with a new “last updated” date.",
+      "contact-title": "contact",
+      "contact-text": "for any privacy-related questions, contact me:",
+      "contact-email": "by email: <1>contact@ilijaruzic.rs</1>",
+      "contact-page": "via the website: <1>ilijaruzic.rs/contact</1>"
+    },
+    "security-policy": {
+      "heading": "security policy",
+      "last-updated": "last updated: 07/06/2025",
+      "scope-intro": "this security policy explains how ilijaruzic.rs (“the website”) protects the site’s security and how you can report issues.",
+      "data-collection-title": "data collection",
+      "data-collection-description": "the website collects limited data related to security and site functionality, including:",
+      "data-collection-list": [
+        "information submitted through the contact form (name, email, message)",
+        "technical data from user agent and navigator sections."
+      ],
+      "reporting-title": "reporting security issues",
+      "reporting-description": "if you discover a security vulnerability, please report it responsibly by emailing me detailed information. avoid public disclosure until the issue is fixed.",
+      "response-title": "response and resolution",
+      "response-description": "i aim to acknowledge your report within 3 business days and keep you informed while working on the issue.",
+      "recommendations-title": "security recommendations",
+      "recommendations-description": "please communicate sensitive information only via secure channels.",
+      "disclaimer-title": "disclaimer",
+      "disclaimer-text": "while i strive to maintain security, no system is 100% safe. use the website at your own risk.",
+      "changes-title": "changes to this policy",
+      "changes-text": "this policy may be updated from time to time; any revisions will appear on this page with a new “last updated” date.",
+      "contact-title": "contact",
+      "contact-text": "for security concerns, you can reach me:",
+      "contact-email": "by email: <1>security@ilijaruzic.rs</1>"
+    }
+  }
+}

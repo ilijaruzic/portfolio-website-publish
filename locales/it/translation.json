@@ -1,0 +1,305 @@
+{
+	"header": {
+		"warnings": "",
+		"home": "home",
+		"blog": "blog",
+		"education": "formazione",
+		"experience": {
+			"title": "esperienza",
+			"work": "lavoro",
+			"projects": "progetti",
+			"scripts": "script"
+		},
+		"contact": "contatti",
+		"resume": {
+			"title": "curriculum",
+			"subject": "Richiesta Curriculum | ilijaruzic.rs",
+			"email": "contact@ilijaruzic.rs"
+		},
+		"languages": {
+			"gb": "inglese",
+			"rs": "serbo",
+			"ru": "russo",
+			"it": "italiano"
+		}
+	},
+	"home": {
+		"title": "👋🏻 sono elia.",
+		"title-alt": "",
+		"subtitle": "ingegnere elettrico e informatico",
+		"description": "sono nato nel 1996 e attualmente vivo a belgrado. sono un grande appassionato di elettronica e informatica, quindi mi diverto spesso a lavorare su progetti domestici di questo tipo. mi piace anche viaggiare, leggere e giocare ai videogiochi.",
+		"projects": {
+			"title": "progetti",
+			"seeAll": "vedi tutti",
+			"description": "benvenuto nella sezione progetti del mio sito portfolio! qui troverai una panoramica di alcuni dei miei progetti più recenti e significativi. ogni progetto rappresenta una sfida unica che sono riuscito ad affrontare con creatività e ingegno."
+		}
+	},
+	"education": {
+		"education": {
+			"title": "formazione",
+			"institutes": {
+				"high-school": {
+					"title": "scuola di economia",
+					"location": "kragujevac, serbia",
+					"degree": "amministratore finanziario",
+					"field": "economia e finanza",
+					"url": "https://www.ekonomskakg.edu.rs"
+				},
+				"bachelor": {
+					"title": "scuola di ingegneria elettrica, università di belgrado",
+					"location": "belgrado, serbia",
+					"degree": "laurea triennale",
+					"field": "ingegneria elettrica e informatica",
+					"url": "https://www.etf.bg.ac.rs/en"
+				}
+			}
+		},
+		"skills": {
+			"title": "competenze",
+			"subtitle": "benvenuto nella sezione competenze del mio sito portfolio dove fornisco una panoramica completa delle mie capacità e conoscenze.",
+			"tools-title": "strumenti",
+			"design": {
+				"title": "design",
+				"subtitle": "il design è uno strumento potente che può trasformare le idee in realtà"
+			},
+			"programming": {
+				"title": "programmazione",
+				"subtitle": "la programmazione permette agli individui di trasformare le loro idee in realtà attraverso il codice"
+			},
+			"teaching": {
+				"title": "insegnamento",
+				"subtitle": "l'insegnamento è una forma d'arte che richiede pazienza, empatia e un impegno per l'apprendimento continuo"
+			},
+			"automation-ai": {
+				"title": "automazione e ia",
+				"subtitle": "l'ia pone significative implicazioni etiche e sociali che devono essere attentamente considerate",
+				"tool-title-1": "elaborazione dei segnali, machine learning",
+				"tool-title-2": "ingegneria biomedica ed elettronica"
+			}
+		}
+	},
+	"experience": {
+		"work": {
+			"title": "esperienza",
+			"professional": {
+				"title": "esperienza professionale",
+				"org-2": {
+					"role": "ingegnere del software",
+					"company": "proctorio",
+					"companyUrl": "https://proctorio.com",
+					"location": "belgrado, serbia",
+					"techStack": "js, c#, .net, sql, ml, azure",
+					"summary": {
+						"item-1": "️implementate funzionalità utilizzando js, c# e machine learning per la soluzione di proctoring automatizzato di proctorio",
+						"item-2": "collaborato interfunzionalmente per progettare e architettare sistemi di proctoring sicuri ed efficienti",
+						"item-3": "utilizzato pipeline e agenti di compilazione di azure devops per garantire codice di alta qualità, risolvere difetti, ottimizzare le prestazioni e migliorare l'affidabilità per un'esperienza utente fluida",
+						"item-4": "documentato progettazioni e specifiche software per chiarezza e manutenibilità"
+					},
+					"from": "maggio 2023",
+					"to": "attuale"
+				},
+				"org-1": {
+					"role": "docente",
+					"company": "lavoratore autonomo",
+					"companyUrl": "https://ilijaruzic.rs",
+					"location": "belgrado, serbia",
+					"techStack": "matematica, elettronica digitale, elaborazione dei segnali, programmazione, bioinformatica",
+					"summary": {
+						"item-1": "️responsabilizzato gli studenti attraverso lezioni coinvolgenti in matematica e informatica, sviluppando le loro capacità di problem solving e la passione per i campi tecnici"
+					},
+					"from": "gennaio 2021",
+					"to": "attuale"
+				}
+			},
+			"volunteering": {
+				"title": "esperienza di volontariato",
+				"org-1": {
+					"role": "membro",
+					"company": "google developer student club",
+					"companyUrl": "https://gdsc.community.dev/university-of-belgrade-belgrade-serbia",
+					"location": "belgrado, serbia",
+					"from": "ottobre 2020",
+					"to": "attuale"
+				}
+			},
+			"courses": {
+				"title": "corsi e seminari",
+				"course-1": {
+					"name": "competizione regionale di imprenditorialità",
+					"location": "junior achievement serbia, belgrado, serbia"
+				},
+				"course-2": {
+					"name": "bootcamp di design narrativo",
+					"location": "nordeus, belgrado, serbia"
+				},
+				"course-3": {
+					"name": "bootcamp di sviluppo videogiochi",
+					"location": "nordeus, belgrado, serbia"
+				},
+				"course-4": {
+					"name": "17° alakajam! game jam",
+					"location": "alakajam.com/17th-alakajam"
+				}
+			}
+		},
+		"projects": {
+			"title": "progetti"
+		},
+		"scripts": {
+			"title": "script e documenti",
+			"script-1": {
+				"title": "numeri complessi",
+				"subtitle": "forum.matemanija.com"
+			},
+			"script-2": {
+				"title": "serie di fourier e trasformata di fourier",
+				"subtitle": "segnali e sistemi"
+			},
+			"script-3": {
+				"title": "polinomio interpolatore di lagrange",
+				"subtitle": "analisi numerica"
+			}
+		}
+	},
+	"contact": {
+		"title": "contatti",
+		"subtitle": "qui puoi facilmente contattarmi utilizzando uno dei metodi sottostanti, e ti risponderò il prima possibile.",
+		"coffee-link": "offrimi un caffè ❤️",
+        "email-link": "contact@ilijaruzic.rs",
+		"form": {
+			"name": {
+				"title": "nome",
+				"errors": {
+					"required": "* il nome è obbligatorio",
+					"length": "* il nome non dovrebbe superare i 20 caratteri",
+					"pattern": "* il nome deve contenere almeno una lettera e nessun simbolo iniziale/finale"
+				}
+			},
+			"email": {
+				"title": "indirizzo email",
+				"errors": {
+					"required": "* l'indirizzo email è obbligatorio",
+					"pattern": "* l'indirizzo email deve essere valido"
+				}
+			},
+			"subject": {
+				"title": "oggetto",
+				"errors": {
+					"required": "* l'oggetto è obbligatorio",
+					"length": "* l'oggetto non dovrebbe superare i 100 caratteri"
+				}
+			},
+			"message": {
+				"title": "messaggio",
+				"errors": {
+					"required": "* il messaggio è obbligatorio",
+					"min-length": "* il messaggio non dovrebbe essere più corto di 10 caratteri",
+					"max-length": "* il messaggio non dovrebbe superare i 10000 caratteri"
+				}
+			},
+			"submission": "invia messaggio"
+		},
+		"thank-you": {
+			"title": "grazie per avermi contattato! 🎉",
+			"subtitle": "volevo confermare di aver ricevuto il tuo messaggio con successo.",
+			"description": "apprezzo il tempo che hai dedicato a contattarmi e spero di risponderti il prima possibile.",
+			"redirect": "sarai reindirizzato automaticamente alla homepage tra",
+			"time": "s"
+		}
+	},
+	"footer": {
+		"year": "© 2023-2025 ",
+		"name": "ilijaruzic.rs",
+		"copyright": "",
+		"policies": "politiche"
+	},
+	"cookies": {
+		"title": "cookie aggiuntivi?",
+		"functional": "funzionali",
+		"analytics": "analitici",
+		"yes": "certo!",
+		"no": "no?"
+	},
+	"loading": {
+		"title": "caricamento... 🔃",
+		"subtitle": "attendi mentre carichiamo il contenuto. potrebbe volerci un momento."
+	},
+	"errors": {
+		"under-construction": {
+			"title": "in costruzione! 🚧",
+			"subtitle": "restate sintonizzati.",
+			"description": "il blog è attualmente in costruzione. tuttavia, puoi comunque visitare il sito principale e dare un'occhiata ai progetti interessanti disponibili lì."
+		},
+		"403": {
+			"title": "ops! ⛔",
+			"subtitle": "403 — pagina proibita.",
+			"description": "la pagina che stai cercando ha accesso limitato."
+		},
+		"404": {
+			"title": "ops! 😥",
+			"subtitle": "404 - pagina non trovata.",
+			"description": "la pagina che stai cercando potrebbe essere stata rimossa o essere temporaneamente non disponibile."
+		},
+        "zoom-guard": {
+            "title": "livello di zoom non supportato! 🔎",
+            "message": "il livello di zoom è al di fuori dell'intervallo supportato (50%–250%). per favore, reimpostalo."
+        }
+	},
+    "policies": {
+    "heading": "politiche",
+    "navigation-label": "navigazione politiche",
+    "privacy-link": "🔒 politica sulla privacy",
+    "security-link": "🛡️ politica di sicurezza",
+    "privacy-policy": {
+      "heading": "politica sulla privacy",
+      "last-updated": "ultimo aggiornamento: 06/06/2025",
+      "intro-paragraph": "questa politica sulla privacy spiega come il sito ilijaruzic.rs (“il sito”) gestisce i dati degli utenti.",
+      "data-title": "raccolta dati",
+      "data-text": "il sito utilizza alcuni cookie e tecnologie simili per migliorare la tua esperienza e consentire le funzionalità principali, tra cui:",
+      "data-list": [
+        "cookie 'theme' per gestire la modalità chiaro/scuro",
+        "cookie 'locale' per impostare la lingua (en/rs/ru/it)",
+        "cookie 'cookie-consent' per ricordare la tua preferenza",
+        "dati personali (nome ed email) utilizzati esclusivamente per il modulo di contatto"
+      ],
+      "no-data-text": "il sito web non utilizza:",
+      "no-data-list": [
+        "nessun dato personale, di utilizzo o informazioni identificabili tranne quelli necessari per il funzionamento del sito",
+        "il tuo indirizzo IP, tipo di browser o informazioni sul dispositivo per il tracciamento",
+        "integrazione con servizi di terze parti per login o raccolta dati dai social media"
+      ],
+      "links-title": "link ad altri siti",
+      "links-text": "il sito può contenere link a pagine esterne che non gestisco. Si prega di consultare le loro politiche sulla privacy, poiché non sono responsabile dei loro contenuti o pratiche.",
+      "changes-title": "modifiche alla politica",
+      "changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno visualizzate in questa pagina con una nuova data di “ultimo aggiornamento”.",
+      "contact-title": "contatto",
+      "contact-text": "per qualsiasi domanda sulla privacy contattami:",
+      "contact-email": "via email: <1>contact@ilijaruzic.rs</1>",
+      "contact-page": "tramite il sito: <1>ilijaruzic.rs/contact</1>"
+    },
+    "security-policy": {
+      "heading": "politica di sicurezza",
+      "last-updated": "ultimo aggiornamento: 07/06/2025",
+      "scope-intro": "questa politica di sicurezza spiega come il sito ilijaruzic.rs (“il sito”) protegge la sicurezza del sito e come puoi segnalare problemi.",
+      "data-collection-title": "raccolta dati",
+      "data-collection-description": "il sito raccoglie dati limitati relativi alla sicurezza e al funzionamento del sito, tra cui:",
+      "data-collection-list": [
+		"informazioni inviate tramite il modulo di contatto (nome, email, messaggio)",
+		"dati tecnici dalle sezioni user agent e navigator."
+      ],
+      "reporting-title": "segnalazione di problemi di sicurezza",
+      "reporting-description": "se scopri una vulnerabilità di sicurezza, segnalala responsabilmente inviandomi informazioni dettagliate via email. evita la divulgazione pubblica fino alla risoluzione del problema.",
+      "response-title": "risposta e risoluzione",
+      "response-description": "mi impegno a riconoscere la tua segnalazione entro 3 giorni lavorativi e a tenerti informato mentre lavoro sul problema.",
+      "recommendations-title": "raccomandazioni per la sicurezza",
+      "recommendations-description": "si prega di comunicare informazioni sensibili solo tramite canali sicuri.",
+      "disclaimer-title": "disclaimer",
+      "disclaimer-text": "anche se mi impegno a mantenere la sicurezza, nessun sistema è sicuro al 100%. Usa il sito a tuo rischio.",
+      "changes-title": "modifiche alla politica",
+      "changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno visualizzate in questa pagina con una nuova data di “ultimo aggiornamento”.",
+      "contact-title": "contatto",
+      "contact-text": "per questioni di sicurezza puoi contattarmi:",
+      "contact-email": "via email: <1>security@ilijaruzic.rs</1>"
+    }
+  }
+}

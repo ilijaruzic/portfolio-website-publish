@@ -1,0 +1,14 @@
+    _  __ _    _                             _                     
+   (_)/ /(_)  (_)____ _ _____ __  __ ____   (_)_____    _____ _____
+  / // // /  / // __ `// ___// / / //_  /  / // ___/   / ___// ___/
+ / // // /  / // /_/ // /   / /_/ /  / /_ / // /__ _  / /   (__  ) 
+/_//_//_/__/ / \__,_//_/    \__,_/  /___//_/ \___/(_)/_/   /____/  
+        /___/                                                     
+
+
+Contact: mailto:security@ilijaruzic.rs
+Expires: 2025-12-30T23:00:00.000Z
+Encryption: https://ilijaruzic.rs/pgp-key.txt
+Preferred-Languages: en, rs
+Canonical: https://ilijaruzic.rs/security.txt
+Policy: https://ilijaruzic.rs/policies/security
