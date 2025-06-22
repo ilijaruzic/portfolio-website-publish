@@ -143,7 +143,29 @@
       }
     },
     "projects": {
-      "title": "projects"
+      "title": "projects",
+      "inner-title": "all projects",
+      "inner-subtitle-par-1": "welcome to the project section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+      "inner-subtitle-par-2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me.",
+      "category-bar": {
+        "all": "all",
+        "game": "game",
+        "web": "web",
+        "native": "native",
+        "console": "console",
+        "soon": "soon"
+      },
+      "types": {
+				"game-engine": "game engine",
+				"video-game": "video game",
+				"native-application": "native application",
+				"web-application": "web application",
+				"console-application": "console application"
+			},
+      "project-card": {
+        "github-link": "github repository",
+        "details-link": "details"
+      }
     },
     "scripts": {
       "title": "scripts and papers",
