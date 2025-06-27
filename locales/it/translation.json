@@ -219,7 +219,8 @@
 					"max-length": "* il messaggio non dovrebbe superare i 10000 caratteri"
 				}
 			},
-			"submission": "invia messaggio"
+			"submission": "invia messaggio",
+			"submitting": "invio..."
 		},
 		"thank-you": {
 			"title": "grazie per avermi contattato! 🎉",
