@@ -18,10 +18,10 @@ if (!$email) {
     exit;
 }
 
-$to = "contant@ilijaruzic.rs";
+$to = "contact@ilijaruzic.rs";
 $headers = "From: {$name} <{$email}>\r\nReply-To: {$email}\r\nContent-Type: text/plain; charset=UTF-8\r\n";
 
-$body = "Name: {$name}\nEmail: {$email}\nSubject: {$subject}\nMessage:\n{$message}\n";
+$body = $message;
 
 if (mail($to, $subject, $body, $headers)) {
     echo json_encode(['success' => true]);
