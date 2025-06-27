@@ -193,7 +193,7 @@
         "title": "name",
         "errors": {
           "required": "* name is required",
-          "length": "* name can be up to 20 characters",
+          "maxLength": "* name can be up to 20 characters",
           "pattern": "* name must include at least one letter and no leading/trailing symbols"
         }
       },
@@ -208,15 +208,15 @@
         "title": "subject",
         "errors": {
           "required": "* subject is required",
-          "length": "* subject can be up to 100 characters"
+          "maxLength": "* subject can be up to 100 characters"
         }
       },
       "message": {
         "title": "message",
         "errors": {
           "required": "* message is required",
-          "min-length": "* message must be at least 10 characters",
-          "max-length": "* message can be up to 10 000 characters"
+          "minLength": "* message must be at least 10 characters",
+          "maxLength": "* message can be up to 10 000 characters"
         }
       },
       "submission": "send message",

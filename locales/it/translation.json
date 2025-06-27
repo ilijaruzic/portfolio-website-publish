@@ -193,7 +193,7 @@
 				"title": "nome",
 				"errors": {
 					"required": "* il nome è obbligatorio",
-					"length": "* il nome non dovrebbe superare i 20 caratteri",
+					"maxLength": "* il nome non dovrebbe superare i 20 caratteri",
 					"pattern": "* il nome deve contenere almeno una lettera e nessun simbolo iniziale/finale"
 				}
 			},
@@ -208,15 +208,15 @@
 				"title": "oggetto",
 				"errors": {
 					"required": "* l'oggetto è obbligatorio",
-					"length": "* l'oggetto non dovrebbe superare i 100 caratteri"
+					"maxLength": "* l'oggetto non dovrebbe superare i 100 caratteri"
 				}
 			},
 			"message": {
 				"title": "messaggio",
 				"errors": {
 					"required": "* il messaggio è obbligatorio",
-					"min-length": "* il messaggio non dovrebbe essere più corto di 10 caratteri",
-					"max-length": "* il messaggio non dovrebbe superare i 10000 caratteri"
+					"minLength": "* il messaggio non dovrebbe essere più corto di 10 caratteri",
+					"maxLength": "* il messaggio non dovrebbe superare i 10000 caratteri"
 				}
 			},
 			"submission": "invia messaggio",
