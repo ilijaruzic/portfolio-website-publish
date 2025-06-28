@@ -219,6 +219,12 @@
           "maxLength": "* message can be up to 10 000 characters"
         }
       },
+      "privacyPolicy": {
+        "label": "i have read and agree to the <0>privacy policy</0>",
+        "errors": {
+          "required": "* privacy policy must be accepted in order to continue"
+        }
+      },
       "submission": "send message",
       "submitting": "sending..."
     },
