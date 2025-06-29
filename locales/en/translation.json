@@ -30,7 +30,7 @@
     "description": "born in 1996, i currently live in belgrade. i'm passionate about electronics and computing, so i often tinker with home projects in those fields. i also love travelling, reading and playing video games.",
     "projects": {
       "title": "projects",
-      "seeAll": "see all",
+      "see-all": "see all",
       "description": "welcome to the projects section of my portfolio! here you’ll find an overview of some of my latest and most notable work. each project represents a unique challenge that i tackled with creativity and ingenuity."
     }
   },

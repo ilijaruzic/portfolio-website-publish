@@ -30,7 +30,7 @@
 		"description": "sono nato nel 1996 e attualmente vivo a belgrado. sono un grande appassionato di elettronica e informatica, quindi mi diverto spesso a lavorare su progetti domestici di questo tipo. mi piace anche viaggiare, leggere e giocare ai videogiochi.",
 		"projects": {
 			"title": "progetti",
-			"seeAll": "vedi tutti",
+			"see-all": "vedi tutti",
 			"description": "benvenuto nella sezione progetti del mio sito portfolio! qui troverai una panoramica di alcuni dei miei progetti più recenti e significativi. ogni progetto rappresenta una sfida unica che sono riuscito ad affrontare con creatività e ingegno."
 		}
 	},
