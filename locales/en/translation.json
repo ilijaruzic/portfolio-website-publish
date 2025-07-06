@@ -24,7 +24,7 @@
     }
   },
   "home": {
-    "title": "👋🏻 i'm ilija.",
+    "title": "👋 i'm ilija.",
     "title-alt": "...or elijah.",
     "subtitle": "electrical & computer engineer",
     "description": "born in 1996, i currently live in belgrade. i'm passionate about electronics and computing, so i often tinker with home projects in those fields. i also love travelling, reading and playing video games.",
@@ -193,7 +193,7 @@
         "title": "name",
         "errors": {
           "required": "* name is required",
-          "maxLength": "* name can be up to 20 characters",
+          "maxLength": "* name should not be longer than 20 charachters",
           "pattern": "* name must include at least one letter and no leading/trailing symbols"
         }
       },
@@ -201,22 +201,22 @@
         "title": "email address",
         "errors": {
           "required": "* email address is required",
-          "pattern": "* please enter a valid email address"
+          "pattern": "* email address should be a valid one"
         }
       },
       "subject": {
         "title": "subject",
         "errors": {
           "required": "* subject is required",
-          "maxLength": "* subject can be up to 100 characters"
+          "maxLength": "* subject should not be longer than 100 charachters"
         }
       },
       "message": {
         "title": "message",
         "errors": {
           "required": "* message is required",
-          "minLength": "* message must be at least 10 characters",
-          "maxLength": "* message can be up to 10 000 characters"
+          "minLength": "* message should not be shorter than 10 charachters",
+					"maxLength": "* message should not be longer than 10 000 charachters"
         }
       },
       "privacyPolicy": {
