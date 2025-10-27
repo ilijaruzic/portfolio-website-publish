@@ -88,12 +88,14 @@
           "company": "proctorio",
           "companyUrl": "https://proctorio.com",
           "location": "belgrade, serbia",
-          "techStack": "js, c#, .net, sql, ml, azure",
+          "techStack": "javascript, c#, .net, c++, sql, ml, azure",
           "summary": {
-            "item-1": "implemented features with js, c# and machine learning for proctorio’s automated proctoring platform.",
-            "item-2": "collaborated across teams to design and architect secure, efficient proctoring systems.",
-            "item-3": "used azure devops pipelines and build agents to ensure high-quality code, fix defects, optimise performance and boost reliability for a seamless user experience.",
-            "item-4": "documented software designs and specifications for clarity and maintainability."
+            "item-1": "developed and maintained browser extensions and desktop applications powering proctorio’s online proctoring, identity verification, and content protection systems used by millions of students and institutions worldwide.",
+            "item-2": "designed and implemented restful apis and webhook integrations connecting proctorio’s lockdown, originality verification, and monitoring services with external learning platforms.",
+            "item-3": "built and optimized ai and ml components for face detection, object tracking, and behavioral analysis using opencv, statistical modeling, and custom c++ modules for real-time inference.",
+            "item-4": "contributed to the design of backend systems handling real-time data streams, authentication, and secure content delivery at a global scale.",
+            "item-5": "improved code quality, performance, and test coverage, modernizing the stack and strengthening platform reliability.",
+            "item-6": "collaborated with engineers across multiple domains on system design, cross-platform integration, and long-term architectural planning."
           },
           "from": "may 2023",
           "to": "present"

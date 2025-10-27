@@ -88,16 +88,18 @@
 					"company": "proctorio",
 					"companyUrl": "https://proctorio.com",
 					"location": "belgrado, serbia",
-					"techStack": "js, c#, .net, sql, ml, azure",
+					"techStack": "js, c#, .net, c++, sql, ml, azure",
 					"summary": {
-						"item-1": "️implementate funzionalità utilizzando js, c# e machine learning per la soluzione di proctoring automatizzato di proctorio",
-						"item-2": "collaborato interfunzionalmente per progettare e architettare sistemi di proctoring sicuri ed efficienti",
-						"item-3": "utilizzato pipeline e agenti di compilazione di azure devops per garantire codice di alta qualità, risolvere difetti, ottimizzare le prestazioni e migliorare l'affidabilità per un'esperienza utente fluida",
-						"item-4": "documentato progettazioni e specifiche software per chiarezza e manutenibilità"
+						"item-1": "sviluppato e mantenuto estensioni browser e applicazioni desktop per il sistema di proctoring, verifica identità e protezione dei contenuti di proctorio, utilizzato da milioni di utenti.",
+						"item-2": "progettato e implementato api restful e integrazioni webhook per collegare i servizi di blocco, verifica dell’originalità e monitoraggio con le piattaforme di apprendimento esterne.",
+						"item-3": "realizzato e ottimizzato moduli ai/ml per rilevamento facciale, tracciamento oggetti e analisi comportamentale con opencv, modelli statistici e c++ per inferenza in tempo reale.",
+						"item-4": "contribuito alla progettazione dei sistemi backend per la gestione di flussi di dati in tempo reale, autenticazione e distribuzione sicura dei contenuti su scala globale.",
+						"item-5": "migliorata la qualità del codice, le prestazioni e la copertura dei test, modernizzando lo stack e aumentando l’affidabilità della piattaforma.",
+						"item-6": "collaborato con team multidisciplinari nella progettazione dei sistemi, integrazione multipiattaforma e pianificazione architetturale a lungo termine."
 					},
 					"from": "maggio 2023",
 					"to": "attuale"
-				},
+					},
 				"org-1": {
 					"role": "docente",
 					"company": "lavoratore autonomo",
