@@ -1,1 +1,0 @@
-import{R as r,j as e}from"./index-2Lf_U_yH.js";function l({heading:t,paragraphs:s=[]}){return e.jsxs("div",{children:[e.jsx("h3",{className:"text-xl xd:text-2xl pt-10 pb-6 font-semibold underline underline-offset-3",children:t}),s.map((n,x)=>e.jsx("p",{className:"text-sm xd:text-base md:text-lg pb-6 leading-7",children:n},x))]})}const a=r.memo(l);export{a as I};
