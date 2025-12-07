@@ -239,7 +239,7 @@
 		}
 	},
 	"footer": {
-		"year": "© 2023-2025 ",
+		"year": "© 2023-{{year}} ",
 		"name": "ilijaruzic.rs",
 		"copyright": "",
 		"policies": "politiche"
