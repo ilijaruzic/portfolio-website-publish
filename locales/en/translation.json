@@ -37,6 +37,7 @@
   "education": {
     "education": {
       "title": "education",
+      "description": "explore my educational background, including degrees in electrical engineering and computing, as well as a comprehensive overview of skills and expertise.",
       "institutes": {
         "high-school": {
           "title": "school of economics",
@@ -83,6 +84,7 @@
       "title": "experience",
       "professional": {
         "title": "professional experience",
+        "description": "explore my professional work experience, including software engineering roles, volunteering activities, and completed courses showcasing skills and growth.",
         "org-2": {
           "role": "software engineer",
           "company": "proctorio",
@@ -146,6 +148,7 @@
     },
     "projects": {
       "title": "projects",
+      "description": "explore my diverse portfolio of projects, including game development, web applications, native apps, and console programs showcasing creativity and technical skills.",
       "inner-title": "all projects",
       "inner-subtitle-par-1": "welcome to the project section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
       "inner-subtitle-par-2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me.",
@@ -157,6 +160,36 @@
         "console": "console",
         "soon": "soon"
       },
+      "console": {
+        "title": "console dev projects",
+        "heading": "console dev projects",
+        "par1": "welcome to the console dev projects section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+        "par2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me."
+      },
+      "game": {
+        "title": "game dev projects",
+        "heading": "game dev projects",
+        "par1": "welcome to the game dev projects section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+        "par2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me."
+      },
+      "web": {
+        "title": "web dev projects",
+        "heading": "web dev projects",
+        "par1": "welcome to the web dev projects section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+        "par2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me."
+      },
+      "native": {
+        "title": "native dev projects",
+        "heading": "native dev projects",
+        "par1": "welcome to the native dev projects section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+        "par2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me."
+      },
+      "coming": {
+        "title": "coming soon projects",
+        "heading": "coming soon projects",
+        "par1": "welcome to the coming soon projects section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
+        "par2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me."
+      },
       "types": {
 				"game-engine": "game engine",
 				"video-game": "video game",
@@ -167,10 +200,172 @@
       "project-card": {
         "github-link": "github repository",
         "details-link": "details"
+      },
+      "project-01": {
+        "title": "air traffic simulator",
+        "description": "discover the air traffic simulator, a java console application for simulating airports, flights, and realistic plane movements with conflict resolution.",
+        "subtitle": "console application",
+        "content": {
+          "part-01": "a simple console application written in the java, implemented as a library of classes representing air traffic simulation.",
+          "part-02": "here you can build a miniature world of airports and flights, explore their connections on a map, and watch a live simulation of planes taking off, flying, and landing with realistic timing and smart handling of conflicts and errors."
+        },
+        "remark": "the full text version of the tasks can be found in the github repository."
+      },
+      "project-02": {
+        "title": "big decimal",
+        "description": "explore the big decimal c++ library for handling large decimal numbers with unlimited precision and accuracy.",
+        "subtitle": "console application",
+        "content": {
+          "part-01": "a simple console application written in the c++, implemented as a static library of classes representing large decimals numbers.",
+          "part-02": "the big decimal class represents an abstract data type for working with signed large numbers. large integers have an unlimited number of digits for the integer and fractional parts. all operations are performed with unlimited accuracy."
+        },
+        "remark": "it was not allowed to use collections from standard libraries, but exclusively built-in and own data types and structures or to use libraries that implement similar or the same functionality. the full text version of the tasks can be found in the github repository."
+      },
+      "project-03": {
+        "title": "cli",
+        "description": "learn about the CLI c++ application, a command line interpreter with input/output redirection and piping features.",
+        "subtitle": "console application",
+        "content": {
+          "part-01": "a simple console application written in the c++, implemented as a library of classes representing basic command line interface.",
+          "part-02": "command line interpreter (cli) reads commands one at a time and executes them. commands can be entered interactively or from a batch file. the interpreter supports basic operating system features such as input/output redirection and piping, providing a simplified version of a real command line interface."
+        },
+        "remark": "the full text version of the tasks can be found in the github repository."
+      },
+      "project-04": {
+        "title": "collect coins",
+        "description": "play collect coins, a java arcade game where you control a character to collect coins as fast as possible.",
+        "subtitle": "video game",
+        "content": {
+          "part-01": "a simple arcade game created in java awt library. in this game, the player controls a character on the screen with the w-a-s-d keys. the objective of the game is to collect all the coins in the least amount of time. coins will be randomly placed on the screen, and the player can collect them by moving the character over them.",
+          "part-02": "overall, a 'collect coins' game in java involved creating a gui, handling user input, designing the game logic, and implementing game mechanics such as trivial collision detection and scorekeeping."
+        },
+        "remark": "java version <11.0.17> or above required.",
+        "alt-01": "p1. start screen",
+        "alt-02": "p2. gameplay",
+        "alt-03": "p3. gameplay",
+        "alt-04": "p4. end screen"
+      },
+      "project-05": {
+        "title": "exam scheduling",
+        "description": "discover the exam scheduling in python, a constraint satisfaction based application for scheduling university exams in halls.",
+        "subtitle": "console application",
+        "content": {
+          "part-01": "a simple console application written in the python implementing a exam scheduling.",
+          "part-02": "the purpose of the exam scheduling is to schedule exams of the school of electrical engineering, university of belgrade, within one examination period. the system distributes the exams by halls in the free ones terms so that all introduced restrictions are respected. the result exam placement is one of potentially more possible schedule, which can be evaluated according to different criteria in depending on the rationality of using available resources.",
+          "part-03": "the entities present in the exam scheduling are exams and halls.",
+          "part-04": "the above system is implemented in such a way that its scheduling algorithm is based on the constraint satisfaction method. system based on input files with data on halls and exam dates, schedules all exams respecting the given restrictions. the following restrictions are implemented:",
+          "part-05": "one exam occupies exactly one term and is held in the required number of halls. several different exams can be arranged in one term,",
+          "part-06": "the number of assigned students in the hall cannot exceed the capacity of that hall,",
+          "part-07": "exams start in one of the 4 times mentioned (08:00, 11:30, 15:00, 18:30), considering that no exam lasts longer than 3 hours,",
+          "part-08": "only one exam can be held in one hall at a time,",
+          "part-09": "exams that are taken on computers can only be assigned to the rooms they own computers.",
+          "part-10": "the solution is implemented in python with permission to use all standard libraries and data structures, but not out-of-the-box csps algorithms. the full text version of the tasks can be found in the github repository."
+        },
+        "remark": "the solution is implemented in the python with permission to use all standard libraries and data structures, but not out-of-the-box csps algorithms. the full text version of the tasks can be found in the github repository."
+      },
+      "project-06": {
+        "title": "flappy rocket",
+        "description": "experience flappy rocket, an arcade game built with the Navia engine using lua, featuring a particle system.",
+        "subtitle": "video game",
+        "content": {
+          "part-01": "a simple arcade game created in ",
+          "part-02": "navia",
+          "part-03": " engine as an test example of using a basic particle system."
+        },
+        "remark": "even though that engine utilises cmake for building at the moment, this project uses lua programming language and premake, because the game was created before the build system was changed.",
+        "alt-01": "p1. gameplay (green background)",
+        "alt-02": "p2. gameplay (yellow background)"
+      },
+      "project-07": {
+        "title": "loopa",
+        "description": "discover Loopa simulator, a native application for interactive visualizations of complex dynamical systems like Lorenz attractors and RLC circuits.",
+        "subtitle": "native application",
+        "content": {
+          "part-01": "loopa simulator — interactive visualizations of complex dynamical systems",
+          "part-02": "loopa simulator brings abstract math to life by turning complex dynamical systems into engaging, interactive visuals. explore chaotic patterns like the lorenz attractor or electrical oscillations in rlc circuits with intuitive visual feedback that makes tough concepts easier to grasp.",
+          "part-03": "adjust system parameters instantly using simple sliders and watch how trajectories and stability change in real time. see animated paths and flow fields that reveal the underlying behavior of nonlinear dynamics. for higher-dimensional (3d+) systems, project dynamics onto 2d planes (xy, xz, yz) to uncover hidden structures and make advanced analysis accessible.",
+          "part-04": "perfect for:",
+          "part-05": "• students: visualize differential equations, nonlinear dynamics, and chaos theory",
+          "part-06": "• educators: clearly demonstrate behaviors of complex systems in stem",
+          "part-07": "• enthusiasts: explore fascinating patterns in science and technology",
+          "part-08": "download loopa simulator and start your visual journey into dynamics today."
+        },
+        "remark": "these simulations are phase space ones - a way to visualize how the state of a dynamical system evolves over time. rather than plotting position vs. time or velocity vs. time like you might in a physics class, a phase space plot shows all possible states of a system and how the system moves through them.",
+        "alt-01": "p1. a lotka-volterra (predator-prey) simulation",
+        "alt-02": "p2. a rlc circuits simulation",
+        "alt-03": "p3. a lorenz attractor simulation"
+      },
+      "project-08": {
+        "title": "navia",
+        "description": "learn about Navia, a 2D game engine in c/c++ using imgui, glm, stb, glfw, entt, and spdlog for game development.",
+        "subtitle": "game engine",
+        "content": {
+          "part-01": "a simple 2d game engine created in c/c++. some of the technologies used are:",
+          "part-02": "imgui",
+          "part-03": " for the user interface,",
+          "part-04": "glm",
+          "part-05": " for the maths, ",
+          "part-06": "stb",
+          "part-07": " and ",
+          "part-08": "glfw",
+          "part-09": " as the opengl libraries,",
+          "part-10": "entt",
+          "part-11": " for the entity-component system,",
+          "part-12": "spdlog",
+          "part-13": " for the logging system."
+        },
+        "remark": "the project utilises cmake for building, and it is still under development. at the moment, there is only support for windows operating system and opengl graphics api.",
+        "alt-01": "p1. a logo",
+        "alt-02": "p2. the user interface (move-gizmo)",
+        "alt-03": "p3. the user interface (rotate-gizmo)",
+        "alt-04": "p4. a simple game created in the engine"
+      },
+      "project-09": {
+        "title": "preemptive os kernel",
+        "description": "explore the preemptive OS kernel, a console application implementing multithreading, semaphores, and time-sharing for RISC-V architecture.",
+        "subtitle": "console application",
+        "content": {
+          "part-01": "a console application that represent a small, but fully functional kernel that supports multithreading with time sharing. in the following explanation, this type of system will be referred to as just kernel.",
+          "part-02": "firstly, two things implemented are memory allocator and thread management system. kernel provides the concept of threads, semaphores and time-sharing support, as well as asynchronous context switching and preemption, on timer and keyboard interrupts.",
+          "part-03": "the kernel is implemented as a library, so that the user program (application) and the kernel itself share the same address space, that is, they represent a statically linked single program preloaded into the computer's operating memory. competitive processes created within the application will actually be only \"light\" processes, i.e. threads run within the program. this configuration is typical for embedded systems, which do not execute arbitrary programs that are loaded and executed on demand user, they only execute the program (together with the operating system) that is already there built-in in the target hardware."
+        },
+        "remark": "the kernel is implemented for the risc v processor architecture and a school computer with this processor. the implemented kernel is executed in a virtual environment (a risc v processor emulator)."
+      },
+      "project-10": {
+        "title": "splash dash",
+        "description": "dive into splash dash, a unity puzzle adventure game created for the 17th Alakajam game jam with voxel modeling.",
+        "subtitle": "video game",
+        "content": {
+          "part-01": "a simple puzzle adventure game created in unity, on the ",
+          "part-02": "17th alakajam",
+          "part-03": " game jam, together with my friend ",
+          "part-04": "philip",
+          "part-05": ". 😎",
+          "part-06": "some of the technologies used are:",
+          "part-07": "magica voxel",
+          "part-08": " for the asset modeling."
+        },
+        "remark": "the project is still under development and the next step is to add some kind of a character and/or boat upgrade system.",
+        "alt-01": "p1. an in-game scene with orthographic camera view",
+        "alt-02": "p2. an in-game scene with perspective camera view",
+        "alt-03": "p3. a start game user interface"
+      },
+      "project-11": {
+        "title": "stock",
+        "description": "check out the stock web application, a reactive app using Spring Framework to display real-time share prices and market movements.",
+        "subtitle": "web application",
+        "content": {
+          "part-01": "a simple reactive web application created using spring framework (kotlin for the backend, java/javafx for the frontend), that retrieves real-time data on share prices and graphically displays their movement on the stock market.",
+        },
+        "remark": "",
+        "alt-01": "p1. a line chart with one symbol",
+        "alt-02": "p2. a line chart with one symbol",
+        "alt-03": "p3. a line chart with two symbols"
       }
     },
     "scripts": {
       "title": "scripts and papers",
+      "description": "discover my collection of scripts, academic papers, and technical writings covering topics in mathematics, signals, and software development.",
       "script-1": {
         "title": "complex numbers",
         "subtitle": "forum.matemanija.com"
@@ -187,6 +382,7 @@
   },
   "contact": {
     "title": "contact",
+    "description": "get in touch with me. find contact information, social media links, and ways to reach out for collaborations, projects, or inquiries.",
     "subtitle": "feel free to reach out using any of the methods below — i’ll reply as soon as i can.",
     "coffee-link": "buy me a coffee ❤️",
     "email-link": "contact@ilijaruzic.rs",
@@ -278,11 +474,13 @@
   },
   "policies": {
     "heading": "policies",
+    "description": "access the privacy and security policies of ilijaruzic.rs, detailing data handling, user rights, and security measures.",
     "navigation-label": "policies navigation",
     "privacy-link": "🔒 privacy policy",
     "security-link": "🛡️ security policy",
     "privacy-policy": {
       "heading": "privacy policy",
+      "description": "read the privacy policy of ilijaruzic.rs to understand how user data is collected, used, and protected on this website.",
       "last-updated": "last updated: 06/06/2025",
       "intro-paragraph": "this privacy policy explains how ilijaruzic.rs (“the website”) handles user data.",
       "data-title": "data collection",
@@ -291,7 +489,7 @@
         "the ‘theme’ cookie to manage light/dark mode",
         "the ‘locale’ cookie to set language (en/rs/ru/it)",
         "the ‘cookie-consent’ cookie to remember your preference",
-        "personal data (name and email) used solely for the contact form"
+        "personal data (name and email), used only for the contact form"
       ],
       "no-data-text": "the website does not collect:",
       "no-data-list": [
@@ -310,6 +508,7 @@
     },
     "security-policy": {
       "heading": "security policy",
+      "description": "learn about the security measures and policies implemented on ilijaruzic.rs to protect user data and ensure safe interactions.",
       "last-updated": "last updated: 07/06/2025",
       "scope-intro": "this security policy explains how ilijaruzic.rs (“the website”) protects the site’s security and how you can report issues.",
       "data-collection-title": "data collection",
