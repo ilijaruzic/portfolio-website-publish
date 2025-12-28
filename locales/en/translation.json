@@ -355,7 +355,7 @@
         "description": "check out the stock web application, a reactive app using Spring Framework to display real-time share prices and market movements.",
         "subtitle": "web application",
         "content": {
-          "part-01": "a simple reactive web application created using spring framework (kotlin for the backend, java/javafx for the frontend), that retrieves real-time data on share prices and graphically displays their movement on the stock market.",
+          "part-01": "a simple reactive web application created using spring framework (kotlin for the backend, java/javafx for the frontend), that retrieves real-time data on share prices and graphically displays their movement on the stock market."
         },
         "remark": "",
         "alt-01": "p1. a line chart with one symbol",
