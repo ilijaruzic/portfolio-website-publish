@@ -149,6 +149,7 @@
     "projects": {
       "title": "projects",
       "description": "explore my diverse portfolio of projects, including game development, web applications, native apps, and console programs showcasing creativity and technical skills.",
+      "remark": "remark",
       "inner-title": "all projects",
       "inner-subtitle-par-1": "welcome to the project section of my portfolio! here, each project represents a unique challenge that i was able to overcome through strategic planning, innovative thinking, and a deep understanding of the problem at hand.",
       "inner-subtitle-par-2": "if you have a project idea you'd like to discuss or are interested in collaborating, please don't hesitate to contact me.",
