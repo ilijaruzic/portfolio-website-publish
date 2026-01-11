@@ -113,6 +113,14 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/native-dev" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/native-dev" />
   </url>
+  <url>
+    <loc>https://ilijaruzic.rs/projects/native-dev/loopa</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/native-dev/loopa" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/native-dev/loopa" />
+    <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/native-dev/loopa" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/native-dev/loopa" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/native-dev/loopa" />
+  </url>
 
   <url>
     <loc>https://ilijaruzic.rs/projects/console-dev</loc>
@@ -123,12 +131,28 @@
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev" />
   </url>
   <url>
+    <loc>https://ilijaruzic.rs/projects/console-dev/air-traffic-simulator</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/air-traffic-simulator" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/air-traffic-simulator" />
+    <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/console-dev/air-traffic-simulator" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/air-traffic-simulator" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/air-traffic-simulator" />
+  </url>
+  <url>
     <loc>https://ilijaruzic.rs/projects/console-dev/big-decimal</loc>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/big-decimal" />
+  </url>
+  <url>
+    <loc>https://ilijaruzic.rs/projects/console-dev/cli</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/cli" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/cli" />
+    <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/console-dev/cli" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/cli" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/cli" />
   </url>
   <url>
     <loc>https://ilijaruzic.rs/projects/console-dev/preemptive-os-kernel</loc>
@@ -154,14 +178,6 @@
     <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/coming-soon" />
-  </url>
-  <url>
-    <loc>https://ilijaruzic.rs/projects/coming-soon/loopa</loc>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/coming-soon/loopa" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/coming-soon/loopa" />
-    <xhtml:link rel="alternate" hreflang="rs" href="https://ilijaruzic.rs/rs/projects/coming-soon/loopa" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/coming-soon/loopa" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/coming-soon/loopa" />
   </url>
 
   <url>

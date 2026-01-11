@@ -8,6 +8,15 @@
   RewriteCond %{HTTP_HOST} ^(www\.)?xn--80ameaco1bya0q9a\.xn--90a3ac$ [NC]
   RewriteRule ^(.*)$ https://ilijaruzic.rs/$1 [R=301,L]
 
+  RewriteCond %{REQUEST_URI} ^/(rs|ru|it)/en(/.*)?$ [NC]
+  RewriteRule ^(rs|ru|it)/en(/.*)?$ /$1$2 [R=301,L]
+
+  RewriteCond %{REQUEST_URI} ^/en/(rs|ru|it)(/.*)?$ [NC]
+  RewriteRule ^en/(rs|ru|it)(/.*)?$ /$1$2 [R=301,L]
+
+  RewriteCond %{REQUEST_URI} ^/en(/.*)?$ [NC]
+  RewriteRule ^en(/.*)?$ $1 [R=301,L]
+
   RewriteCond %{REQUEST_URI} !^/$
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_URI} (.+)/$

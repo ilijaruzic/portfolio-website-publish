@@ -1,6 +1,11 @@
 User-agent: *
 Allow: /
 
+Disallow: /en/
+Disallow: /en
+Disallow: /*/en/
+Disallow: /*/en
+
 Disallow: /thank-you
 Disallow: /forbidden
 Disallow: /rs/thank-you
