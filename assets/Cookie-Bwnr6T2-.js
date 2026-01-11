@@ -1,0 +1,1 @@
+import{R as e,r as o}from"./vendor-DzUR9v0F.js";import{f as t}from"./index-JxhIoWb6.js";import"./i18n-CvT3sr5n.js";const s="cookie-consent",n={expires:270,path:"/",sameSite:"Lax"};const r=e.memo(function(){return o.useEffect(()=>{t.get(s)||t.set(s,"accepted","https:"===window.location.protocol?{...n,secure:!0}:n)},[]),null});export{r as default};
