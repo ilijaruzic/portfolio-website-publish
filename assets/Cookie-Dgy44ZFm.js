@@ -1,1 +1,0 @@
-import{R as s,r as c,n as t}from"./index-D70EdsrO.js";const e="cookie-consent",a=270,o={expires:a,path:"/",sameSite:"Lax"};function n(){return c.useEffect(()=>{t.get(e)||t.set(e,"accepted",window.location.protocol==="https:"?{...o,secure:!0}:o)},[]),null}const i=s.memo(n);export{i as default};
