@@ -1,13 +1,20 @@
 <IfModule mod_rewrite.c>
   RewriteEngine On
   RewriteBase /
-
   RewriteCond %{HTTP_HOST} ^blog\.ilijaruzic\.rs$ [NC]
   RewriteRule ^(.*)$ https://ilijaruzic.rs/blog/$1 [R=301,L]
-
   RewriteCond %{HTTP_HOST} ^(www\.)?xn--80ameaco1bya0q9a\.xn--90a3ac$ [NC]
   RewriteRule ^(.*)$ https://ilijaruzic.rs/$1 [R=301,L]
-
+  RewriteCond %{REQUEST_URI} ^/(rs|ru|it)/en(/.*)?$ [NC]
+  RewriteRule ^(rs|ru|it)/en(/.*)?$ /$1$2 [R=301,L]
+  RewriteCond %{REQUEST_URI} ^/en/(rs|ru|it)(/.*)?$ [NC]
+  RewriteRule ^en/(rs|ru|it)(/.*)?$ /$1$2 [R=301,L]
+  RewriteCond %{REQUEST_URI} ^/en(/.*)?$ [NC]
+  RewriteRule ^en(/.*)?$ $1 [R=301,L]
+  RewriteCond %{REQUEST_URI} !^/$
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_URI} (.+)/$
+  RewriteRule ^(.*)/$ /$1 [R=301,L]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteRule ^ index.html [L]
@@ -23,24 +30,14 @@
   Header set X-Content-Type-Options "nosniff"
   Header set X-Frame-Options "SAMEORIGIN"
   Header set X-XSS-Protection "1; mode=block"
-
   <FilesMatch "index\.html$">
-    Header set Cache-Control "no-cache, no-store, must-revalidate"
-    Header set Pragma "no-cache"
-    Header set Expires "0"
+  Header set Cache-Control "no-cache, no-store, must-revalidate"
+  Header set Pragma "no-cache"
+  Header set Expires "0"
   </FilesMatch>
-
-  <FilesMatch "\.(js|css)$">
-    Header set Cache-Control "public, max-age=31536000, immutable"
-    Header set Access-Control-Allow-Origin "*"
-  </FilesMatch>
-
-  <FilesMatch "\.(avif)$">
-    Header set Access-Control-Allow-Origin "*"
-  </FilesMatch>
-
-  <FilesMatch "\.(png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot|otf|ico)$">
-    Header set Cache-Control "public, max-age=172800, must-revalidate"
+  <FilesMatch "\.(js|css|webp|avif|png|jpg|jpeg|gif|svg|woff|woff2|ttf|eot|otf|ico)$">
+  Header set Cache-Control "public, max-age=31536000, immutable"
+  Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 </IfModule>
 
@@ -66,7 +63,7 @@
 
 <IfModule mod_expires.c>
   ExpiresActive On
-  ExpiresDefault "access plus 2 days"
+  ExpiresDefault "access plus 0 seconds"
 </IfModule>
 
 <IfModule mod_security.c>
