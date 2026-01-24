@@ -49,7 +49,7 @@
     Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 
-  <FilesMatch "\.(webp)$">
+  <FilesMatch "\.(avif)$">
     Header set Access-Control-Allow-Origin "*"
   </FilesMatch>
 
