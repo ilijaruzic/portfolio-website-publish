@@ -23,6 +23,7 @@
 <IfModule mod_mime.c>
   AddType application/javascript .js
   AddType text/css .css
+  AddType application/xml .xml
 </IfModule>
 
 <IfModule mod_headers.c>
