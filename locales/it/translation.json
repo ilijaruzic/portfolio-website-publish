@@ -405,6 +405,10 @@
 			},
 			"subject": {
 				"title": "oggetto",
+				"options": {
+					"item-1": "lezioni private",
+					"item-2": "altro"
+				},
 				"errors": {
 					"required": "* l'oggetto è obbligatorio",
 					"maxLength": "* l'oggetto non dovrebbe superare i 100 caratteri"

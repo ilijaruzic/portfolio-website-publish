@@ -405,6 +405,10 @@
       },
       "subject": {
         "title": "subject",
+        "options": {
+          "item-1": "private lessons",
+          "item-2": "other"
+        },
         "errors": {
           "required": "* subject is required",
           "maxLength": "* subject should not be longer than 100 characters"
