@@ -409,6 +409,9 @@
           "item-1": "private lessons",
           "item-2": "other"
         },
+        "formatted": {
+          "item-1": "Private lessons enquiry | ilijaruzic.rs"
+        },
         "errors": {
           "required": "* subject is required",
           "maxLength": "* subject should not be longer than 100 characters"

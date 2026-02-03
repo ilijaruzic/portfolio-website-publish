@@ -409,6 +409,9 @@
 					"item-1": "lezioni private",
 					"item-2": "altro"
 				},
+				"formatted": {
+					"item-1": "Richiesta di lezioni private | ilijaruzic.rs"
+				},
 				"errors": {
 					"required": "* l'oggetto è obbligatorio",
 					"maxLength": "* l'oggetto non dovrebbe superare i 100 caratteri"
