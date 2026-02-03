@@ -1,1 +1,0 @@
-import{R as e,r as o}from"./vendor-react-CqqHOjbk.js";import{b as t}from"./vendor-other-B5mEX6f0.js";import"./vendor-i18n-CnKatMdP.js";const r="cookie-consent",s={expires:270,path:"/",sameSite:"Lax"},n=e.memo(function(){return o.useEffect(()=>{t.get(r)||t.set(r,"accepted","https:"===window.location.protocol?{...s,secure:!0}:s)},[]),null});export{n as default};

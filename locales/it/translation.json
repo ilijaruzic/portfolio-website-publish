@@ -390,6 +390,7 @@
 		"form": {
 			"name": {
 				"title": "nome",
+				"placeholder": "inserisci il tuo nome...",
 				"errors": {
 					"required": "* il nome è obbligatorio",
 					"maxLength": "* il nome non dovrebbe superare i 20 caratteri",
@@ -398,6 +399,7 @@
 			},
 			"email": {
 				"title": "indirizzo email",
+				"placeholder": "inserisci il tuo indirizzo email...",
 				"errors": {
 					"required": "* l'indirizzo email è obbligatorio",
 					"pattern": "* l'indirizzo email deve essere valido"
@@ -405,12 +407,16 @@
 			},
 			"subject": {
 				"title": "oggetto",
+				"placeholder": "seleziona un oggetto...",
+				"other-placeholder": "inserisci l'oggetto del messaggio...",
 				"options": {
-					"item-1": "lezioni private",
-					"item-2": "altro"
+					"item-1": "collaborazione aziendale",
+					"item-2": "lezioni private",
+					"item-3": "altro"
 				},
 				"formatted": {
-					"item-1": "Richiesta di lezioni private | ilijaruzic.rs"
+					"item-1": "Richiesta di collaborazione aziendale | ilijaruzic.rs",
+					"item-2": "Richiesta di lezioni private | ilijaruzic.rs"
 				},
 				"errors": {
 					"required": "* l'oggetto è obbligatorio",
@@ -419,6 +425,7 @@
 			},
 			"message": {
 				"title": "messaggio",
+				"placeholder": "scrivi il tuo messaggio qui...",
 				"errors": {
 					"required": "* il messaggio è obbligatorio",
 					"minLength": "* il messaggio non dovrebbe essere più corto di 10 caratteri",
@@ -449,11 +456,11 @@
 		"policies": "politiche"
 	},
 	"cookies": {
-		"title": "cookie aggiuntivi?",
-		"functional": "funzionali",
-		"analytics": "analitici",
-		"yes": "certo!",
-		"no": "no?"
+		"banner": {
+			"message": "questo sito web utilizza i cookie per migliorare la tua esperienza e abilitare le funzionalità di base.",
+			"learn-more": "scopri di più",
+			"accept": "va bene"
+		}
 	},
 	"loading": {
 		"title": "caricamento... 🔃",
@@ -485,7 +492,7 @@
     "description": "accedi alle politiche sulla privacy e sicurezza di ilijaruzic.rs, che descrivono in dettaglio la gestione dei dati, i diritti degli utenti e le misure di sicurezza.",
     "navigation-label": "navigazione politiche",
     "privacy-link": "🔒 politica sulla privacy",
-    "security-link": "🛡️ politica di sicurezza",
+    "security-link": "🛡️ politica sulla sicurezza",
     "privacy-policy": {
       "heading": "politica sulla privacy",
       "description": "leggi la politica sulla privacy di ilijaruzic.rs per capire come i dati degli utenti vengono raccolti, utilizzati e protetti su questo sito web.",
@@ -515,10 +522,10 @@
       "contact-page": "tramite il sito: <1>ilijaruzic.rs/contact</1>"
     },
     "security-policy": {
-      "heading": "politica di sicurezza",
+      "heading": "politica sulla sicurezza",
       "description": "scopri le misure e le politiche di sicurezza implementate su ilijaruzic.rs per proteggere i dati degli utenti e garantire interazioni sicure.",
       "last-updated": "ultimo aggiornamento: 07/06/2025",
-      "scope-intro": "questa politica di sicurezza spiega come il sito ilijaruzic.rs (“il sito”) protegge la sicurezza del sito e come puoi segnalare problemi.",
+      "scope-intro": "questa politica sulla sicurezza spiega come il sito ilijaruzic.rs (\"il sito\") protegge la sicurezza del sito e come puoi segnalare problemi.",
       "data-collection-title": "raccolta dati",
       "data-collection-description": "il sito raccoglie dati limitati relativi alla sicurezza e al funzionamento del sito, tra cui:",
       "data-collection-list": [

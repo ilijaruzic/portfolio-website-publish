@@ -390,6 +390,7 @@
     "form": {
       "name": {
         "title": "name",
+        "placeholder": "enter your name...",
         "errors": {
           "required": "* name is required",
           "maxLength": "* name should not be longer than 20 characters",
@@ -398,6 +399,7 @@
       },
       "email": {
         "title": "email address",
+        "placeholder": "enter your email address...",
         "errors": {
           "required": "* email address is required",
           "pattern": "* email address should be a valid one"
@@ -405,12 +407,16 @@
       },
       "subject": {
         "title": "subject",
+        "placeholder": "select a subject...",
+        "other-placeholder": "enter message subject...",
         "options": {
-          "item-1": "private lessons",
-          "item-2": "other"
+          "item-1": "business collaboration",
+          "item-2": "private lessons",
+          "item-3": "other"
         },
         "formatted": {
-          "item-1": "Private lessons enquiry | ilijaruzic.rs"
+          "item-1": "Business collaboration enquiry | ilijaruzic.rs",
+          "item-2": "Private lessons enquiry | ilijaruzic.rs"
         },
         "errors": {
           "required": "* subject is required",
@@ -419,6 +425,7 @@
       },
       "message": {
         "title": "message",
+        "placeholder": "write your message here...",
         "errors": {
           "required": "* message is required",
           "minLength": "* message should not be shorter than 10 characters",
@@ -449,11 +456,11 @@
     "policies": "policies"
   },
   "cookies": {
-    "title": "additional cookies?",
-    "functional": "functional",
-    "analytics": "analytics",
-    "yes": "sure!",
-    "no": "no, thanks"
+    "banner": {
+      "message": "this website uses cookies to enhance your experience and enable core functionality.",
+      "learn-more": "learn more",
+      "accept": "okay"
+    }
   },
   "loading": {
     "title": "loading... 🔃",
