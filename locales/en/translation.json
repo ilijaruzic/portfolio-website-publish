@@ -394,7 +394,7 @@
         "errors": {
           "required": "* name is required",
           "maxLength": "* name should not be longer than 20 characters",
-          "pattern": "* name must include at least one letter and no leading/trailing symbols"
+          "pattern": "* name must include at least one letter and no leading/trailing spaces"
         }
       },
       "email": {

@@ -394,7 +394,7 @@
 				"errors": {
 					"required": "* il nome è obbligatorio",
 					"maxLength": "* il nome non dovrebbe superare i 20 caratteri",
-					"pattern": "* il nome deve contenere almeno una lettera e nessun simbolo iniziale/finale"
+					"pattern": "* il nome deve contenere almeno una lettera e nessuno spazio iniziale/finale"
 				}
 			},
 			"email": {
