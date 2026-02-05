@@ -485,6 +485,11 @@
     "zoom-guard": {
       "title": "unsupported zoom level! 🔎",
       "message": "zoom outside the supported range (50 %–250 %). please reset it."
+    },
+    "form": {
+      "main": "unexpected error occurred:",
+      "action": "if error persists, please contact me via email",
+      "troubleshooting": "for additional troubleshooting"
     }
   },
   "policies": {

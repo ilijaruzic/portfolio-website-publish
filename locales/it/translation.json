@@ -485,7 +485,12 @@
         "zoom-guard": {
             "title": "livello di zoom non supportato! 🔎",
             "message": "il livello di zoom è al di fuori dell'intervallo supportato (50%–250%). per favore, reimpostalo."
-        }
+        },
+		"form": {
+			"main": "si è verificato un errore imprevisto:",
+			"action": "se l'errore persiste, contattami via email",
+			"troubleshooting": "per ulteriori risoluzioni dei problemi"
+		}
 	},
     "policies": {
     "heading": "politiche",
