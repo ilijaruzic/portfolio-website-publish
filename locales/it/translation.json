@@ -551,5 +551,9 @@
       "contact-text": "per questioni di sicurezza puoi contattarmi:",
       "contact-email": "via email: <1>security@ilijaruzic.rs</1>"
     }
+  },
+  "network": {
+    "offline": "sei offline. alcune funzionalità potrebbero essere limitate.",
+    "online": "sei di nuovo online."
   }
 }
