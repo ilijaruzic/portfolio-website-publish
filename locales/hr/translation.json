@@ -13,7 +13,7 @@
     "contact": "kontakt",
     "resume": {
       "title": "životopis",
-      "subject": "upit za životopis | ilijaruzic.rs",
+      "subject": "Upit za životopis | ilijaruzic.rs",
       "email": "contact@ilijaruzic.rs"
     },
     "languages": {
@@ -28,7 +28,7 @@
     "title": "👋🏻 ja sam ilija.",
     "title-alt": "",
     "subtitle": "inženjer elektrotehnike i računarstva",
-    "description": "rođen 1996., trenutno živim u beogradu. strastven sam oko elektronike i računarstva, pa često majstorim na kućnim projektima u tim poljima. također volim putovanja, čitanje i videoigre.",
+    "description": "rođen sam 1996. godine, trenutno živim u beogradu. strastven sam oko elektronike i računarstva, pa često majstorim na kućnim projektima u tim poljima. također volim putovanja, čitanje i videoigre.",
     "projects": {
       "title": "projekti",
       "see-all": "vidi sve",
@@ -70,7 +70,7 @@
       },
       "teaching": {
         "title": "podučavanje",
-        "subtitle": "podučavanje je umjetnost koja zahtijava strpljenje, empatiju i predanost cjeloživotnom učenju."
+        "subtitle": "podučavanje je umjetnost koja zahtijeva strpljenje, empatiju i predanost cjeloživotnom učenju."
       },
       "automation-ai": {
         "title": "automatizacija i ai",
@@ -407,21 +407,21 @@
         }
       },
       "subject": {
-        "title": "predmet",
-        "placeholder": "odaberite predmet...",
-        "other-placeholder": "unesite predmet poruke...",
+        "title": "tema",
+        "placeholder": "odaberite temu...",
+        "other-placeholder": "unesite temu poruke...",
         "options": {
           "item-1": "poslovna suradnja",
           "item-2": "privatna poduka",
           "item-3": "ostalo"
         },
         "formatted": {
-          "item-1": "upit za poslovnu suradnju | ilijaruzic.rs",
-          "item-2": "upit za privatnu poduku | ilijaruzic.rs"
+          "item-1": "Upit za poslovnu suradnju | ilijaruzic.rs",
+          "item-2": "Upit za privatnu poduku | ilijaruzic.rs"
         },
         "errors": {
-          "required": "* predmet je obavezan",
-          "maxLength": "* predmet ne smije biti duži od 100 znakova"
+          "required": "* tema je obavezna",
+          "maxLength": "* tema ne smije biti duža od 100 znakova"
         }
       },
       "message": {
