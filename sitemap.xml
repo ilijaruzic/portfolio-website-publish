@@ -7,6 +7,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it" />
   </url>
@@ -16,6 +17,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/blog" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/blog" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/blog" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/blog" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/blog" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/blog" />
   </url>
@@ -25,6 +27,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/work" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/work" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/work" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/work" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/work" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/work" />
   </url>
@@ -34,6 +37,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects" />
   </url>
@@ -43,6 +47,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/scripts" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/scripts" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/scripts" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/scripts" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/scripts" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/scripts" />
   </url>
@@ -52,6 +57,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/game-dev" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/game-dev" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/game-dev" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/game-dev" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/game-dev" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/game-dev" />
   </url>
@@ -60,6 +66,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/game-dev/navia" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/game-dev/navia" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/game-dev/navia" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/game-dev/navia" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/game-dev/navia" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/game-dev/navia" />
   </url>
@@ -68,6 +75,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/game-dev/splash-dash" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/game-dev/splash-dash" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/game-dev/splash-dash" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/game-dev/splash-dash" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/game-dev/splash-dash" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/game-dev/splash-dash" />
   </url>
@@ -76,6 +84,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/game-dev/flappy-rocket" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/game-dev/flappy-rocket" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/game-dev/flappy-rocket" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/game-dev/flappy-rocket" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/game-dev/flappy-rocket" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/game-dev/flappy-rocket" />
   </url>
@@ -84,6 +93,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/game-dev/collect-coins" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/game-dev/collect-coins" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/game-dev/collect-coins" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/game-dev/collect-coins" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/game-dev/collect-coins" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/game-dev/collect-coins" />
   </url>
@@ -93,6 +103,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/web-dev" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/web-dev" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/web-dev" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/web-dev" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/web-dev" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/web-dev" />
   </url>
@@ -101,6 +112,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/web-dev/stock" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/web-dev/stock" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/web-dev/stock" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/web-dev/stock" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/web-dev/stock" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/web-dev/stock" />
   </url>
@@ -110,6 +122,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/native-dev" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/native-dev" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/native-dev" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/native-dev" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/native-dev" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/native-dev" />
   </url>
@@ -118,6 +131,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/native-dev/loopa" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/native-dev/loopa" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/native-dev/loopa" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/native-dev/loopa" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/native-dev/loopa" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/native-dev/loopa" />
   </url>
@@ -127,6 +141,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev" />
   </url>
@@ -135,6 +150,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/air-traffic-simulator" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/air-traffic-simulator" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev/air-traffic-simulator" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev/air-traffic-simulator" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/air-traffic-simulator" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/air-traffic-simulator" />
   </url>
@@ -143,6 +159,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev/big-decimal" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/big-decimal" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/big-decimal" />
   </url>
@@ -151,6 +168,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/cli" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/cli" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev/cli" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev/cli" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/cli" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/cli" />
   </url>
@@ -159,6 +177,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/preemptive-os-kernel" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/preemptive-os-kernel" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev/preemptive-os-kernel" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev/preemptive-os-kernel" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/preemptive-os-kernel" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/preemptive-os-kernel" />
   </url>
@@ -167,6 +186,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/console-dev/exam-scheduling" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/console-dev/exam-scheduling" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/console-dev/exam-scheduling" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/console-dev/exam-scheduling" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/console-dev/exam-scheduling" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/console-dev/exam-scheduling" />
   </url>
@@ -176,6 +196,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/projects/coming-soon" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/projects/coming-soon" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/projects/coming-soon" />
   </url>
@@ -185,6 +206,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/education" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/education" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/education" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/education" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/education" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/education" />
   </url>
@@ -194,6 +216,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/contact" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/contact" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/contact" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/contact" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/contact" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/contact" />
   </url>
@@ -203,6 +226,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/policies" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/policies" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/policies" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/policies" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/policies" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/policies" />
   </url>
@@ -211,6 +235,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/policies/privacy" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/policies/privacy" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/policies/privacy" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/policies/privacy" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/policies/privacy" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/policies/privacy" />
   </url>
@@ -219,6 +244,7 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://ilijaruzic.rs/policies/security" />
     <xhtml:link rel="alternate" hreflang="en" href="https://ilijaruzic.rs/policies/security" />
     <xhtml:link rel="alternate" hreflang="sr" href="https://ilijaruzic.rs/rs/policies/security" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://ilijaruzic.rs/hr/policies/security" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://ilijaruzic.rs/ru/policies/security" />
     <xhtml:link rel="alternate" hreflang="it" href="https://ilijaruzic.rs/it/policies/security" />
   </url>

@@ -14,5 +14,7 @@ Disallow: /ru/thank-you
 Disallow: /ru/forbidden
 Disallow: /it/thank-you
 Disallow: /it/forbidden
+Disallow: /hr/thank-you
+Disallow: /hr/forbidden
 
 Sitemap: https://ilijaruzic.rs/sitemap.xml

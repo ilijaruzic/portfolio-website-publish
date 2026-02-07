@@ -1,0 +1,561 @@
+{
+  "header": {
+    "warnings": "",
+    "home": "početna",
+    "blog": "blog",
+    "education": "obrazovanje",
+    "experience": {
+      "title": "iskustvo",
+      "work": "posao",
+      "projects": "projekti",
+      "scripts": "skripte"
+    },
+    "contact": "kontakt",
+    "resume": {
+      "title": "životopis",
+      "subject": "upit za životopis | ilijaruzic.rs",
+      "email": "contact@ilijaruzic.rs"
+    },
+    "languages": {
+      "gb": "engleski",
+      "rs": "srpski",
+      "ru": "ruski",
+      "it": "talijanski",
+      "hr": "hrvatski"
+    }
+  },
+  "home": {
+    "title": "👋🏻 ja sam ilija.",
+    "title-alt": "",
+    "subtitle": "inženjer elektrotehnike i računarstva",
+    "description": "rođen 1996., trenutno živim u beogradu. strastven sam oko elektronike i računarstva, pa često majstorim na kućnim projektima u tim poljima. također volim putovanja, čitanje i videoigre.",
+    "projects": {
+      "title": "projekti",
+      "see-all": "vidi sve",
+      "description": "dobrodošli u sekciju projekata mog portfelja! ovdje ćete pronaći pregled nekih od mojih najnovijih i najznačajnijih radova. svaki projekt predstavlja jedinstven izazov koji sam riješio kreativnošću i domišljatošću."
+    }
+  },
+  "education": {
+    "education": {
+      "title": "obrazovanje",
+      "description": "istražite moju obrazovnu pozadinu, uključujući diplome iz elektrotehnike i računarstva, kao i sveobuhvatan pregled vještina i stručnosti.",
+      "institutes": {
+        "high-school": {
+          "title": "ekonomska škola",
+          "location": "kragujevac, srbija",
+          "degree": "financijski administrator",
+          "field": "ekonomija i financije",
+          "url": "https://www.ekonomskakg.edu.rs"
+        },
+        "bachelor": {
+          "title": "elektrotehnički fakultet, sveučilište u beogradu",
+          "location": "beograd, srbija",
+          "degree": "diplomirani inženjer elektrotehnike i računarstva",
+          "field": "elektrotehnika i računarstvo",
+          "url": "https://www.etf.bg.ac.rs/en"
+        }
+      }
+    },
+    "skills": {
+      "title": "vještine",
+      "subtitle": "dobrodošli u sekciju vještina mog portfelja, gdje pružam sveobuhvatan pregled svoje stručnosti.",
+      "tools-title": "alati",
+      "design": {
+        "title": "dizajn",
+        "subtitle": "dizajn je moćan alat koji pretvara ideje u stvarnost."
+      },
+      "programming": {
+        "title": "programiranje",
+        "subtitle": "programiranje omogućuje idejama da ožive kroz kod."
+      },
+      "teaching": {
+        "title": "podučavanje",
+        "subtitle": "podučavanje je umjetnost koja zahtijava strpljenje, empatiju i predanost cjeloživotnom učenju."
+      },
+      "automation-ai": {
+        "title": "automatizacija i ai",
+        "subtitle": "ai otvara značajna etička i društvena pitanja koja se moraju pažljivo razmotriti.",
+        "tool-title-1": "obrada signala, strojno učenje",
+        "tool-title-2": "biomedicinsko inženjerstvo i elektronika"
+      }
+    }
+  },
+  "experience": {
+    "work": {
+      "title": "iskustvo",
+      "professional": {
+        "title": "profesionalno iskustvo",
+        "description": "istražite moje profesionalno radno iskustvo, uključujući uloge softverskog inženjera, volonterske aktivnosti i završene tečajeve koji pokazuju vještine i rast.",
+        "org-2": {
+          "role": "softverski inženjer",
+          "company": "proctorio",
+          "companyUrl": "https://proctorio.com",
+          "location": "beograd, srbija",
+          "techStack": "javascript, c#, .net, c++, sql, ml, azure",
+          "summary": {
+            "item-1": "razvijao i održavao proširenja preglednika i desktop aplikacije koje pokreću proctorio sustave za online nadzor, provjeru identiteta i zaštitu sadržaja koje koriste milijuni studenata i institucija diljem svijeta.",
+            "item-2": "dizajnirao i implementirao restful api-je i webhook integracije koje povezuju proctorio usluge zaključavanja, provjere originalnosti i praćenja s vanjskim platformama za učenje.",
+            "item-3": "izrađivao i optimizirao ai i ml komponente za detekciju lica, praćenje objekata i analizu ponašanja koristeći opencv, statističko modeliranje i prilagođene c++ module za inferenciju u stvarnom vremenu.",
+            "item-4": "doprinosio dizajnu pozadinskih sustava (backend) koji obrađuju strujanje podataka u stvarnom vremenu, autentifikaciju i sigurnu isporuku sadržaja na globalnoj razini.",
+            "item-5": "poboljšao kvalitetu koda, performanse i pokrivenost testovima, modernizirajući tehnološki stog i jačajući pouzdanost platforme.",
+            "item-6": "surađivao s inženjerima iz više domena na dizajnu sustava, višeplatformskoj integraciji i dugoročnom arhitektonskom planiranju."
+          },
+          "from": "svibanj 2023.",
+          "to": "danas"
+        },
+        "org-1": {
+          "role": "predavač",
+          "company": "samozaposlen",
+          "companyUrl": "https://ilijaruzic.rs",
+          "location": "beograd, srbija",
+          "techStack": "matematika, digitalna elektronika, obrada signala, programiranje, bioinformatika",
+          "summary": {
+            "item-1": "osnaživao studente angažiranim predavanjima iz matematike i računarstva, potičući njihove vještine rješavanja problema i strast prema tehnologiji."
+          },
+          "from": "siječanj 2021.",
+          "to": "danas"
+        }
+      },
+      "volunteering": {
+        "title": "volontersko iskustvo",
+        "org-1": {
+          "role": "član",
+          "company": "google developer student club",
+          "companyUrl": "https://gdsc.community.dev/university-of-belgrade-belgrade-serbia",
+          "location": "beograd, srbija",
+          "from": "listopad 2020.",
+          "to": "danas"
+        }
+      },
+      "courses": {
+        "title": "tečajevi i seminari",
+        "course-1": {
+          "name": "regionalno natjecanje u poduzetništvu",
+          "location": "junior achievement serbia, beograd, srbija"
+        },
+        "course-2": {
+          "name": "bootcamp za narativni dizajn",
+          "location": "nordeus, beograd, srbija"
+        },
+        "course-3": {
+          "name": "gamedev bootcamp",
+          "location": "nordeus, beograd, srbija"
+        },
+        "course-4": {
+          "name": "17. alakajam! game jam",
+          "location": "alakajam.com/17th-alakajam"
+        }
+      }
+    },
+    "projects": {
+      "title": "projekti",
+      "description": "istražite moj raznolik portfelj projekata, uključujući razvoj igara, web aplikacije, nativne aplikacije i konzolne programe koji pokazuju kreativnost i tehničke vještine.",
+      "remark": "napomena",
+      "inner-title": "svi projekti",
+      "inner-subtitle-par-1": "dobrodošli u sekciju projekata mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+      "inner-subtitle-par-2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte.",
+      "category-bar": {
+        "all": "svi",
+        "game": "igre",
+        "web": "web",
+        "native": "nativni",
+        "console": "konzola",
+        "soon": "uskoro"
+      },
+      "console": {
+        "title": "projekti za konzolu",
+        "heading": "projekti za konzolu",
+        "par1": "dobrodošli u sekciju konzolnih projekata mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+        "par2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte."
+      },
+      "game": {
+        "title": "projekti razvoja igara",
+        "heading": "projekti razvoja igara",
+        "par1": "dobrodošli u sekciju projekata razvoja igara mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+        "par2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte."
+      },
+      "web": {
+        "title": "web projekti",
+        "heading": "web projekti",
+        "par1": "dobrodošli u sekciju web projekata mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+        "par2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte."
+      },
+      "native": {
+        "title": "nativni projekti",
+        "heading": "nativni projekti",
+        "par1": "dobrodošli u sekciju nativnih projekata mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+        "par2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte."
+      },
+      "coming": {
+        "title": "projekti u dolasku",
+        "heading": "projekti u dolasku",
+        "par1": "dobrodošli u sekciju nadolazećih projekata mog portfelja! ovdje svaki projekt predstavlja jedinstven izazov koji sam uspio savladati strateškim planiranjem, inovativnim razmišljanjem i dubokim razumijevanjem problema.",
+        "par2": "ako imate ideju za projekt o kojoj biste željeli razgovarati ili ste zainteresirani za suradnju, slobodno me kontaktirajte."
+      },
+      "types": {
+				"game-engine": "pokretač igara",
+				"video-game": "videoigra",
+				"native-application": "nativna aplikacija",
+				"web-application": "web aplikacija",
+				"console-application": "konzolna aplikacija"
+			},
+      "project-card": {
+        "github-link": "github repozitorij",
+        "details-link": "detalji"
+      },
+      "project-01": {
+        "title": "simulator zračnog prometa",
+        "description": "otkrijte simulator zračnog prometa, java konzolnu aplikaciju za simulaciju zračnih luka, letova i realističnog kretanja aviona s rješavanjem konflikata.",
+        "subtitle": "konzolna aplikacija",
+        "content": {
+          "part-01": "jednostavna konzolna aplikacija napisana u javi, implementirana kao biblioteka klasa koja predstavlja simulaciju zračnog prometa.",
+          "part-02": "ovdje možete izgraditi minijaturni svijet zračnih luka i letova, istražiti njihove veze na karti i gledati simulaciju polijetanja, letenja i slijetanja aviona uživo uz realistično vrijeme i pametno rukovanje konfliktima i pogreškama."
+        },
+        "remark": "puna tekstualna verzija zadataka može se pronaći u github repozitoriju."
+      },
+      "project-02": {
+        "title": "big decimal",
+        "description": "istražite big decimal c++ biblioteku za rukovanje velikim decimalnim brojevima s neograničenom preciznošću i točnošću.",
+        "subtitle": "konzolna aplikacija",
+        "content": {
+          "part-01": "jednostavna konzolna aplikacija napisana u c++, implementirana kao statička biblioteka klasa koje predstavljaju velike decimalne brojeve.",
+          "part-02": "klasa big decimal predstavlja apstraktni tip podataka za rad s potpisanim velikim brojevima. veliki cijeli brojevi imaju neograničen broj znamenki za cijeli i razlomljeni dio. sve operacije se izvode s neograničenom točnošću."
+        },
+        "remark": "nije bilo dopušteno koristiti kolekcije iz standardnih biblioteka, već isključivo ugrađene i vlastite tipove podataka i strukture ili koristiti biblioteke koje implementiraju sličnu ili istu funkcionalnost. puna tekstualna verzija zadataka može se pronaći u github repozitoriju."
+      },
+      "project-03": {
+        "title": "cli",
+        "description": "naučite o cli c++ aplikaciji, tumaču naredbenog retka sa značajkama preusmjeravanja ulaza/izlaza i povezivanja (piping).",
+        "subtitle": "konzolna aplikacija",
+        "content": {
+          "part-01": "jednostavna konzolna aplikacija napisana u c++, implementirana kao biblioteka klasa koja predstavlja osnovno sučelje naredbenog retka.",
+          "part-02": "tumač naredbenog retka (cli) čita naredbe jednu po jednu i izvršava ih. naredbe se mogu unositi interaktivno ili iz batch datoteke. tumač podržava osnovne značajke operacijskog sustava kao što su preusmjeravanje ulaza/izlaza i povezivanje, pružajući pojednostavljenu verziju pravog sučelja naredbenog retka."
+        },
+        "remark": "puna tekstualna verzija zadataka može se pronaći u github repozitoriju."
+      },
+      "project-04": {
+        "title": "collect coins",
+        "description": "igrajte collect coins, java arkadnu igru u kojoj upravljate likom kako biste sakupili novčiće što je brže moguće.",
+        "subtitle": "videoigra",
+        "content": {
+          "part-01": "jednostavna arkadna igra kreirana u java awt biblioteci. u ovoj igri igrač kontrolira lik na ekranu pomoću tipki w-a-s-d. cilj igre je sakupiti sve novčiće u što kraćem vremenu. novčići će biti nasumično postavljeni na ekran, a igrač ih može sakupiti pomicanjem lika preko njih.",
+          "part-02": "sve u svemu, igra 'collect coins' u javi uključivala je kreiranje gui-ja, rukovanje korisničkim unosom, dizajniranje logike igre i implementaciju mehanike igre kao što su trivijalna detekcija sudara i vođenje rezultata."
+        },
+        "remark": "potrebna java verzija <11.0.17> ili novija.",
+        "alt-01": "p1. početni zaslon",
+        "alt-02": "p2. gameplay",
+        "alt-03": "p3. gameplay",
+        "alt-04": "p4. završni zaslon"
+      },
+      "project-05": {
+        "title": "zakazivanje ispita",
+        "description": "otkrijte zakazivanje ispita u pythonu, aplikaciju temeljenu na zadovoljenju ograničenja za raspoređivanje fakultetskih ispita u dvorane.",
+        "subtitle": "konzolna aplikacija",
+        "content": {
+          "part-01": "jednostavna konzolna aplikacija napisana u pythonu koja implementira raspoređivanje ispita.",
+          "part-02": "svrha zakazivanja ispita je raspoređivanje ispita elektrotehničkog fakulteta sveučilišta u beogradu unutar jednog ispitnog roka. sustav raspoređuje ispite po dvoranama u slobodnim terminima tako da se poštuju sva uvedena ograničenja. rezultat je jedan od potencijalno više mogućih rasporeda, koji se može vrednovati prema različitim kriterijima ovisno o racionalnosti korištenja dostupnih resursa.",
+          "part-03": "entiteti prisutni u zakazivanju ispita su ispiti i dvorane.",
+          "part-04": "sustav je implementiran tako da se njegov algoritam za raspoređivanje temelji na metodi zadovoljenja ograničenja (csp). sustav na temelju ulaznih datoteka s podacima o dvoranama i datumima ispita zakazuje sve ispite poštujući zadana ograničenja. implementirana su sljedeća ograničenja:",
+          "part-05": "jedan ispit zauzima točno jedan termin i održava se u potrebnom broju dvorana. više različitih ispita može se rasporediti u jedan termin,",
+          "part-06": "broj dodijeljenih studenata u dvorani ne može premašiti kapacitet te dvorane,",
+          "part-07": "ispiti počinju u jednom od 4 navedena termina (08:00, 11:30, 15:00, 18:30), s obzirom na to da nijedan ispit ne traje duže od 3 sata,",
+          "part-08": "u jednoj dvorani može se održavati samo jedan ispit istovremeno,",
+          "part-09": "ispiti koji se polažu na računalima mogu se dodijeliti samo prostorijama koje posjeduju računala.",
+          "part-10": "rješenje je implementirano u pythonu uz dopuštenje korištenja svih standardnih biblioteka i struktura podataka, ali ne i gotovih csp algoritama. puna tekstualna verzija zadataka može se pronaći u github repozitoriju."
+        },
+        "remark": "rješenje je implementirano u pythonu uz dopuštenje korištenja svih standardnih biblioteka i struktura podataka, ali ne i gotovih csp algoritama. puna tekstualna verzija zadataka može se pronaći u github repozitoriju."
+      },
+      "project-06": {
+        "title": "flappy rocket",
+        "description": "doživite flappy rocket, arkadnu igru izgrađenu navia pokretačem koristeći lua jezik, s čestičnim sustavom.",
+        "subtitle": "videoigra",
+        "content": {
+          "part-01": "jednostavna arkadna igra kreirana u ",
+          "part-02": "navia",
+          "part-03": " pokretaču kao testni primjer korištenja osnovnog čestičnog sustava."
+        },
+        "remark": "iako taj pokretač trenutno koristi cmake za izgradnju, ovaj projekt koristi programski jezik lua i premake, jer je igra kreirana prije nego što je sustav za izgradnju promijenjen.",
+        "alt-01": "p1. gameplay (zelena pozadina)",
+        "alt-02": "p2. gameplay (žuta pozadina)"
+      },
+      "project-07": {
+        "title": "loopa",
+        "description": "otkrijte loopa simulator, nativnu aplikaciju za interaktivne vizualizacije složenih dinamičkih sustava poput lorenzovih atraktora i rlc krugova.",
+        "subtitle": "nativna aplikacija",
+        "content": {
+          "part-01": "loopa simulator — interaktivne vizualizacije složenih dinamičkih sustava",
+          "part-02": "loopa simulator oživljava apstraktnu matematiku pretvarajući složene dinamičke sustave u privlačne, interaktivne vizuale. istražite kaotične obrasce poput lorenzovog atraktora ili električne oscilacije u rlc krugovima s intuitivnim vizualnim povratnim informacijama koje olakšavaju razumijevanje teških koncepta.",
+          "part-03": "trenutačno prilagodite parametre sustava pomoću jednostavnih klizača i promatrajte kako se putanje i stabilnost mijenjaju u stvarnom vremenu. pogledajte animirane putanje i polja tokova koji otkrivaju pozadinsko ponašanje nelinearne dinamike. za višedimenzionalne (3d+) sustave, projicirajte dinamiku na 2d ravnine (xy, xz, yz) kako biste otkrili skrivene strukture i učinili naprednu analizu pristupačnom.",
+          "part-04": "savršeno za:",
+          "part-05": "• studente: vizualizirajte diferencijalne jednadžbe, nelinearnu dinamiku i teoriju kaosa",
+          "part-06": "• edukatore: jasno demonstrirajte ponašanja složenih sustava u stem područjima",
+          "part-07": "• entuzijaste: istražite fascinantne obrasce u znanosti i tehnologiji",
+          "part-08": "preuzmite loopa simulator i započnite svoje vizualno putovanje u dinamiku već danas."
+        },
+        "remark": "ove simulacije su simulacije faznog prostora - način vizualizacije kako se stanje dinamičkog sustava razvija tijekom vremena. umjesto crtanja položaja u odnosu na vrijeme ili brzine u odnosu na vrijeme kao što biste radili na satu fizike, prikaz faznog prostora pokazuje sva moguća stanja sustava i kako se sustav kreće kroz njih.",
+        "alt-01": "p1. lotka-volterra (predator-plijen) simulacija",
+        "alt-02": "p2. simulacija rlc krugova",
+        "alt-03": "p3. simulacija lorenzovog atraktora"
+      },
+      "project-08": {
+        "title": "navia",
+        "description": "naučite o navia pokretaču, 2d pokretaču igara u c/c++ koristeći imgui, glm, stb, glfw, entt i spdlog.",
+        "subtitle": "pokretač igara",
+        "content": {
+          "part-01": "jednostavan 2d pokretač igara kreiran u c/c++. neke od korištenih tehnologija su:",
+          "part-02": "imgui",
+          "part-03": " za korisničko sučelje,",
+          "part-04": "glm",
+          "part-05": " za matematiku, ",
+          "part-06": "stb",
+          "part-07": " i ",
+          "part-08": "glfw",
+          "part-09": " kao opengl biblioteke,",
+          "part-10": "entt",
+          "part-11": " za sustav entiteta i komponenti,",
+          "part-12": "spdlog",
+          "part-13": " za sustav zapisivanja (logging)."
+        },
+        "remark": "projekt koristi cmake za izgradnju i još uvijek je u razvoju. trenutno postoji podrška samo za windows operacijski sustav i opengl grafički api.",
+        "alt-01": "p1. logotip",
+        "alt-02": "p2. korisničko sučelje (move-gizmo)",
+        "alt-03": "p3. korisničko sučelje (rotate-gizmo)",
+        "alt-04": "p4. jednostavna igra kreirana u pokretaču"
+      },
+      "project-09": {
+        "title": "preemptivna jezgra os-a",
+        "description": "istražite preemptivnu jezgru os-a, konzolnu aplikaciju koja implementira višedretvenost, semafore i dijeljenje vremena za risc-v arhitekturu.",
+        "subtitle": "konzolna aplikacija",
+        "content": {
+          "part-01": "konzolna aplikacija koja predstavlja malu, ali potpuno funkcionalnu jezgru (kernel) koja podržava višedretvenost s dijeljenjem vremena.",
+          "part-02": "prvo, implementirane su dvije stvari: alokator memorije i sustav za upravljanje dretvama. jezgra pruža koncept dretvi, semafora i podršku za dijeljenje vremena, kao i asinkronu promjenu konteksta i preempciju pri prekidima timera i tipkovnice.",
+          "part-03": "jezgra je implementirana kao biblioteka, tako da korisnički program (aplikacija) i sama jezgra dijele isti adresni prostor, odnosno predstavljaju statički povezan jedan program unaprijed učitan u operativnu memoriju računala. konkurentni procesi stvoreni unutar aplikacije zapravo će biti samo \"laki\" procesi, tj. dretve pokrenute unutar programa. ova konfiguracija je tipična za ugrađene (embedded) sustave, koji ne izvršavaju proizvoljne programe koji se učitavaju i izvršavaju na zahtjev korisnika, već samo program (zajedno s operacijskim sustavom) koji je već ugrađen u ciljni hardver."
+        },
+        "remark": "jezgra je implementirana za risc v arhitekturu procesora i školsko računalo s tim procesorom. implementirana jezgra se izvršava u virtualnom okruženju (emulator risc v procesora)."
+      },
+      "project-10": {
+        "title": "splash dash",
+        "description": "uronite u splash dash, unity zagonetnu avanturu kreiranu za 17. alakajam game jam s voksel modeliranjem.",
+        "subtitle": "videoigra",
+        "content": {
+          "part-01": "jednostavna zagonetna avantura kreirana u unityju, na ",
+          "part-02": "17. alakajam",
+          "part-03": " game jamu, zajedno s mojim prijateljem ",
+          "part-04": "filipom",
+          "part-05": ". 😎",
+          "part-06": "neke od korištenih tehnologija su:",
+          "part-07": "magica voxel",
+          "part-08": " za modeliranje imovine (assets)."
+        },
+        "remark": "projekt je još uvijek u razvoju i sljedeći korak je dodavanje neke vrste sustava za nadogradnju lika i/ili broda.",
+        "alt-01": "p1. scena u igri s ortografskim prikazom kamere",
+        "alt-02": "p2. scena u igri s perspektivnim prikazom kamere",
+        "alt-03": "p3. korisničko sučelje za početak igre"
+      },
+      "project-11": {
+        "title": "stock",
+        "description": "pogledajte stock web aplikaciju, reaktivnu aplikaciju koja koristi spring framework za prikaz cijena dionica i tržišnih kretanja u stvarnom vremenu.",
+        "subtitle": "web aplikacija",
+        "content": {
+          "part-01": "jednostavna reaktivna web aplikacija kreirana pomoću spring frameworka (kotlin za backend, java/javafx za frontend), koja dohvaća podatke o cijenama dionica u stvarnom vremenu i grafički prikazuje njihovo kretanje na burzi."
+        },
+        "remark": "",
+        "alt-01": "p1. linijski grafikon s jednim simbolom",
+        "alt-02": "p2. linijski grafikon s jednim simbolom",
+        "alt-03": "p3. linijski grafikon s dva simbola"
+      }
+    },
+    "scripts": {
+      "title": "skripte i radovi",
+      "description": "otkrijte moju zbirku skripti, akademskih radova i tehničkih tekstova koji pokrivaju teme iz matematike, signala i razvoja softvera.",
+      "script-1": {
+        "title": "kompleksni brojevi",
+        "subtitle": "forum.matemanija.com"
+      },
+      "script-2": {
+        "title": "fourierovi redovi i fourierova transformacija",
+        "subtitle": "signali i sustavi"
+      },
+      "script-3": {
+        "title": "lagrangeov interpolacijski polinom",
+        "subtitle": "numerička analiza"
+      }
+    }
+  },
+  "contact": {
+    "title": "kontakt",
+    "description": "stupite u kontakt sa mnom. pronađite kontakt informacije, poveznice na društvene mreže i načine kako me kontaktirati za suradnje, projekte ili upite.",
+    "subtitle": "slobodno mi se obratite bilo kojom od metoda u nastavku — odgovorit ću čim budem mogao.",
+    "coffee-link": "kupi mi kavu ❤️",
+    "email-link": "contact@ilijaruzic.rs",
+    "form": {
+      "name": {
+        "title": "ime",
+        "placeholder": "unesite svoje ime...",
+        "errors": {
+          "required": "* ime je obavezno",
+          "maxLength": "* ime ne smije biti duže od 20 znakova",
+          "pattern": "* ime mora sadržavati barem jedno slovo i biti bez razmaka na početku/kraju"
+        }
+      },
+      "email": {
+        "title": "e-mail adresa",
+        "placeholder": "unesite svoju e-mail adresu...",
+        "errors": {
+          "required": "* e-mail adresa je obavezna",
+          "pattern": "* e-mail adresa mora biti valjana"
+        }
+      },
+      "subject": {
+        "title": "predmet",
+        "placeholder": "odaberite predmet...",
+        "other-placeholder": "unesite predmet poruke...",
+        "options": {
+          "item-1": "poslovna suradnja",
+          "item-2": "privatna poduka",
+          "item-3": "ostalo"
+        },
+        "formatted": {
+          "item-1": "upit za poslovnu suradnju | ilijaruzic.rs",
+          "item-2": "upit za privatnu poduku | ilijaruzic.rs"
+        },
+        "errors": {
+          "required": "* predmet je obavezan",
+          "maxLength": "* predmet ne smije biti duži od 100 znakova"
+        }
+      },
+      "message": {
+        "title": "poruka",
+        "placeholder": "napišite svoju poruku ovdje...",
+        "errors": {
+          "required": "* poruka je obavezna",
+          "minLength": "* poruka ne smije biti kraća od 10 znakova",
+					"maxLength": "* poruka ne smije biti duža od 10 000 znakova"
+        }
+      },
+      "privacyPolicy": {
+        "label": "pročitao sam i slažem se s <0>politikom privatnosti</0>",
+        "errors": {
+          "required": "* politika privatnosti mora biti prihvaćena za nastavak"
+        }
+      },
+      "submission": "pošalji poruku",
+      "submitting": "slanje..."
+    },
+    "thank-you": {
+      "title": "hvala vam što ste se javili! 🎉",
+      "subtitle": "uspješno sam primio vašu poruku.",
+      "description": "hvala što ste odvojili vrijeme da me kontaktirate — odgovorit ću vam u najkraćem mogućem roku.",
+      "redirect": "bit ćete preusmjereni na početnu stranicu za",
+      "time": "s"
+    }
+  },
+  "footer": {
+    "year": "© 2023-{{year}} ",
+    "name": "ilijaruzic.rs",
+    "copyright": "",
+    "policies": "politike"
+  },
+  "cookies": {
+    "banner": {
+      "message": "ova web stranica koristi kolačiće kako bi poboljšala vaše iskustvo i omogućila osnovnu funkcionalnost.",
+      "learn-more": "saznajte više",
+      "accept": "u redu"
+    }
+  },
+  "loading": {
+    "title": "učitavanje... 🔃",
+    "subtitle": "molimo pričekajte dok učitavamo sadržaj — to može potrajati trenutak."
+  },
+  "errors": {
+    "under-construction": {
+      "title": "u izradi! 🚧",
+      "subtitle": "ostanite uz nas.",
+      "description": "sekcija bloga je još uvijek u izradi, ali slobodno istražite glavnu stranicu i provjerite već dostupne projekte."
+    },
+    "403": {
+      "title": "opasnost! ⛔",
+      "subtitle": "403 — zabranjeno.",
+      "description": "stranica kojoj pokušavate pristupiti je ograničena."
+    },
+    "404": {
+      "title": "ups! 😥",
+      "subtitle": "404 — stranica nije pronađena.",
+      "description": "stranica koju tražite je uklonjena ili je privremeno nedostupna."
+    },
+    "zoom-guard": {
+      "title": "nepodržana razina uvećanja! 🔎",
+      "message": "uvećanje je izvan podržanog raspona (50 %–250 %). molimo resetirajte ga."
+    },
+    "form": {
+      "main": "došlo je do neočekivane pogreške:",
+      "action": "ako se pogreška nastavi, kontaktirajte me putem e-maila",
+      "troubleshooting": "za dodatno rješavanje problema"
+    }
+  },
+  "policies": {
+    "heading": "politike",
+    "description": "pristupite politikama o privatnosti i sigurnosti stranice ilijaruzic.rs, s detaljima o rukovanju podacima, pravima korisnika i sigurnosnim mjerama.",
+    "navigation-label": "navigacija politika",
+    "privacy-link": "🔒 politika privatnosti",
+    "security-link": "🛡️ politika sigurnosti",
+    "privacy-policy": {
+      "heading": "politika privatnosti",
+      "description": "pročitajte politiku privatnosti stranice ilijaruzic.rs kako biste razumjeli kako se korisnički podaci prikupljaju, koriste i štite na ovoj web stranici.",
+      "last-updated": "zadnje ažurirano: 07.02.2026.",
+      "intro-paragraph": "ova politika privatnosti objašnjava kako ilijaruzic.rs („web stranica“) rukuje korisničkim podacima. web stranicom upravlja njezin vlasnik, koji je odgovoran za sve osobne podatke obrađene putem nje.",
+      "data-title": "prikupljanje podataka",
+      "data-text": "web stranica koristi određene kolačiće i tehnologije preglednika kako bi poboljšala vaše iskustvo i omogućila osnovnu funkcionalnost, uključujući:",
+      "data-list": [
+        "kolačić ‘theme’ za upravljanje svijetlim/tamnim načinom rada",
+        "kolačić ‘locale’ za postavljanje jezika (en/rs/ru/it)",
+        "kolačić ‘cookie-consent’ za pamćenje vaših postavki",
+        "osobne podatke (ime i e-mail), koji se koriste samo za odgovaranje na upite iz kontakt obrasca, na temelju vašeg pristanka",
+        "značajke preglednika kao što je svojstvo navigator.online za otkrivanje mrežne povezanosti radi funkcionalnosti; to radi isključivo na strani klijenta i ne prikuplja niti prenosi osobne podatke"
+      ],
+      "no-data-text": "web stranica ne prikuplja:",
+      "no-data-list": [
+        "dodatne osobne podatke ili podatke o korištenju izvan onoga što je nužno",
+        "vašu ip adresu, vrstu preglednika ili informacije o uređaju za praćenje ili analitiku",
+        "podatke s društvenih mreža trećih strana za prijavu ili profiliranje"
+      ],
+      "links-title": "poveznice na druge stranice",
+      "links-text": "stranica može sadržavati poveznice na vanjske stranice koje ne kontroliram. molimo pregledajte njihove politike privatnosti, jer nisam odgovoran za njihov sadržaj ili praksu.",
+      "changes-title": "promjene ove politike",
+      "changes-text": "ova politika se može povremeno ažurirati; sve revizije pojavit će se na ovoj stranici s novim datumom „zadnjeg ažuriranja“.",
+      "contact-title": "kontakt",
+      "contact-text": "imate pravo zatražiti pristup, ispravak ili brisanje svojih osobnih podataka, kao i ograničenje ili prigovor na njihovu obradu, te pravo na podnošenje prigovora nadležnom nadzornom tijelu. osobni podaci se čuvaju samo onoliko dugo koliko je potrebno za odgovor na vaš upit. web stranica može biti smještena kod pružatelja usluga treće strane koji obrađuje ograničene tehničke podatke (kao što su ip adrese) u svrhu sigurnosti i rada poslužitelja. za sva pitanja vezana uz privatnost, kontaktirajte me:",
+      "contact-email": "putem e-maila: <1>contact@ilijaruzic.rs</1>",
+      "contact-page": "putem web stranice: <1>ilijaruzic.rs/contact</1>"
+    },
+    "security-policy": {
+      "heading": "politika sigurnosti",
+      "description": "saznajte o sigurnosnim mjerama i pravilima implementiranim na ilijaruzic.rs kako bi se zaštitili korisnički podaci i osigurala sigurna interakcija.",
+      "last-updated": "zadnje ažurirano: 07.02.2026.",
+      "scope-intro": "ova sigurnosna politika objašnjava kako ilijaruzic.rs („web stranica“) štiti sigurnost stranice i kako možete prijaviti probleme.",
+      "data-collection-title": "prikupljanje podataka",
+      "data-collection-description": "web stranica obrađuje ograničene informacije strogo potrebne za sigurnost i funkcionalnost, uključuju:",
+      "data-collection-list": [
+        "informacije dobrovoljno dostavljene putem kontakt obrasca (ime, e-mail, poruka)",
+        "osnovne tehničke signale potrebne za sigurnu komunikaciju i pravilan rad stranice"
+      ],
+      "reporting-title": "prijavljivanje sigurnosnih problema",
+      "reporting-description": "ako otkrijete sigurnosni propust, molimo vas da ga odgovorno prijavite slanjem detaljnih informacija e-mailom. izbjegavajte javno objavljivanje dok se problem ne riješi.",
+      "response-title": "odgovor i rješavanje",
+      "response-description": "prijave se obično potvrđuju u roku od 3 radna dana, a ulažu se razumni napori da se istraže i riješe potvrđeni problemi.",
+      "recommendations-title": "sigurnosne preporuke",
+      "recommendations-description": "molimo izbjegavajte slanje vrlo osjetljivih informacija putem nesigurnih kanala i koristite standardne prakse internetske sigurnosti.",
+      "disclaimer-title": "odricanje od odgovornosti",
+      "disclaimer-text": "iako se poduzimaju razumne mjere za održavanje sigurnosti, nijedan sustav ne može jamčiti potpunu sigurnost. korištenje web stranice je na vlastitu odgovornost.",
+      "changes-title": "promjene ove politike",
+      "changes-text": "ova politika se može povremeno ažurirati; sve revizije pojavit će se na ovoj stranici s novim datumom „zadnjeg ažuriranja“.",
+      "contact-title": "kontakt",
+      "contact-text": "za sigurnosna pitanja ili prijave ranjivosti, možete me kontaktirati:",
+      "contact-email": "putem e-maila: <1>security@ilijaruzic.rs</1>"
+    }
+  },
+  "network": {
+    "offline": "niste povezani na mrežu. neke značajke mogu biti ograničene.",
+    "online": "ponovno ste onlajn."
+  }
+}

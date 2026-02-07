@@ -1,1 +1,0 @@
-import{R as e,j as t}from"./vendor-react-CqqHOjbk.js";const s=e.memo(function({heading:e,paragraphs:s=[]}){return t.jsxs("div",{children:[t.jsx("h3",{className:"text-xl xd:text-2xl pt-10 pb-6 font-semibold underline underline-offset-3",children:e}),s.map((e,s)=>t.jsx("p",{className:"text-sm xd:text-base md:text-lg pb-6 leading-7",children:e},s))]})});export{s as I};
