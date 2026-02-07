@@ -501,54 +501,55 @@
     "privacy-policy": {
       "heading": "privacy policy",
       "description": "read the privacy policy of ilijaruzic.rs to understand how user data is collected, used, and protected on this website.",
-      "last-updated": "last updated: 06/06/2025",
-      "intro-paragraph": "this privacy policy explains how ilijaruzic.rs (“the website”) handles user data.",
+      "last-updated": "last updated: 07/02/2026",
+      "intro-paragraph": "this privacy policy explains how ilijaruzic.rs (“the website”) handles user data. the website is operated by its owner, who is responsible for any personal data processed through it.",
       "data-title": "data collection",
-      "data-text": "the website uses certain cookies and similar technologies to enhance your experience and enable core functionality, including:",
+      "data-text": "the website uses certain cookies and browser technologies to enhance your experience and enable core functionality, including:",
       "data-list": [
         "the ‘theme’ cookie to manage light/dark mode",
         "the ‘locale’ cookie to set language (en/rs/ru/it)",
         "the ‘cookie-consent’ cookie to remember your preference",
-        "personal data (name and email), used only for the contact form"
+        "personal data (name and email), used only to respond to contact form inquiries, based on your consent",
+        "browser features such as the navigator.online property to detect network connectivity for functionality; this operates entirely on the client side and does not collect or transmit personal data"
       ],
       "no-data-text": "the website does not collect:",
       "no-data-list": [
         "additional personal or usage data beyond what is necessary",
-        "your IP address, browser type or device information for tracking",
+        "your ip address, browser type, or device information for tracking or analytics",
         "third-party social media data for login or profiling"
       ],
       "links-title": "links to other sites",
-      "links-text": "the site may link to external pages that i do not operate. please review their privacy policies, as i’m not responsible for their content or practices.",
+      "links-text": "the site may link to external pages that i do not control. please review their privacy policies, as i am not responsible for their content or practices.",
       "changes-title": "changes to this policy",
       "changes-text": "this policy may be updated from time to time; any revisions will appear on this page with a new “last updated” date.",
       "contact-title": "contact",
-      "contact-text": "for any privacy-related questions, contact me:",
+      "contact-text": "you have the right to request access, correction, or deletion of your personal data, as well as restriction or objection to its processing, and the right to lodge a complaint with a relevant supervisory authority. personal data is retained only as long as necessary to respond to your inquiry. the website may be hosted by a third-party provider that processes limited technical data (such as IP addresses) for security and server operation purposes. for any privacy-related questions, contact me:",
       "contact-email": "by email: <1>contact@ilijaruzic.rs</1>",
       "contact-page": "via the website: <1>ilijaruzic.rs/contact</1>"
     },
     "security-policy": {
       "heading": "security policy",
       "description": "learn about the security measures and policies implemented on ilijaruzic.rs to protect user data and ensure safe interactions.",
-      "last-updated": "last updated: 07/06/2025",
+      "last-updated": "last updated: 07/02/2026",
       "scope-intro": "this security policy explains how ilijaruzic.rs (“the website”) protects the site’s security and how you can report issues.",
       "data-collection-title": "data collection",
-      "data-collection-description": "the website collects limited data related to security and site functionality, including:",
+      "data-collection-description": "the website processes limited information strictly necessary for security and functionality, including:",
       "data-collection-list": [
-        "information submitted through the contact form (name, email, message)",
-        "technical data from user agent and navigator sections."
+        "information voluntarily submitted through the contact form (name, email, message)",
+        "basic technical signals required for secure communication and proper site operation"
       ],
       "reporting-title": "reporting security issues",
-      "reporting-description": "if you discover a security vulnerability, please report it responsibly by emailing me detailed information. avoid public disclosure until the issue is fixed.",
+      "reporting-description": "if you discover a security vulnerability, please report it responsibly by emailing detailed information. avoid public disclosure until the issue has been resolved.",
       "response-title": "response and resolution",
-      "response-description": "i aim to acknowledge your report within 3 business days and keep you informed while working on the issue.",
+      "response-description": "reports are typically acknowledged within 3 business days, and reasonable efforts are made to investigate and resolve confirmed issues.",
       "recommendations-title": "security recommendations",
-      "recommendations-description": "please communicate sensitive information only via secure channels.",
+      "recommendations-description": "please avoid sending highly sensitive information through unsecured channels and use standard internet security practices.",
       "disclaimer-title": "disclaimer",
-      "disclaimer-text": "while i strive to maintain security, no system is 100% safe. use the website at your own risk.",
+      "disclaimer-text": "while reasonable measures are taken to maintain security, no system can be guaranteed to be completely secure. use of the website is at your own risk.",
       "changes-title": "changes to this policy",
       "changes-text": "this policy may be updated from time to time; any revisions will appear on this page with a new “last updated” date.",
       "contact-title": "contact",
-      "contact-text": "for security concerns, you can reach me:",
+      "contact-text": "for security concerns or vulnerability reports, you can reach me:",
       "contact-email": "by email: <1>security@ilijaruzic.rs</1>"
     }
   },

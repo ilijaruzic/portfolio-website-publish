@@ -499,58 +499,59 @@
     "privacy-link": "🔒 politica sulla privacy",
     "security-link": "🛡️ politica sulla sicurezza",
     "privacy-policy": {
-      "heading": "politica sulla privacy",
-      "description": "leggi la politica sulla privacy di ilijaruzic.rs per capire come i dati degli utenti vengono raccolti, utilizzati e protetti su questo sito web.",
-      "last-updated": "ultimo aggiornamento: 06/06/2025",
-      "intro-paragraph": "questa politica sulla privacy spiega come il sito ilijaruzic.rs (“il sito”) gestisce i dati degli utenti.",
-      "data-title": "raccolta dati",
-      "data-text": "il sito utilizza alcuni cookie e tecnologie simili per migliorare la tua esperienza e consentire le funzionalità principali, tra cui:",
-      "data-list": [
-        "cookie 'theme' per gestire la modalità chiaro/scuro",
-        "cookie 'locale' per impostare la lingua (en/rs/ru/it)",
-        "cookie 'cookie-consent' per ricordare la tua preferenza",
-        "dati personali (nome ed email) utilizzati esclusivamente per il modulo di contatto"
-      ],
-      "no-data-text": "il sito web non utilizza:",
-      "no-data-list": [
-        "nessun dato personale, di utilizzo o informazioni identificabili tranne quelli necessari per il funzionamento del sito",
-        "il tuo indirizzo IP, tipo di browser o informazioni sul dispositivo per il tracciamento",
-        "integrazione con servizi di terze parti per login o raccolta dati dai social media"
-      ],
-      "links-title": "link ad altri siti",
-      "links-text": "il sito può contenere link a pagine esterne che non gestisco. Si prega di consultare le loro politiche sulla privacy, poiché non sono responsabile dei loro contenuti o pratiche.",
-      "changes-title": "modifiche alla politica",
-      "changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno visualizzate in questa pagina con una nuova data di “ultimo aggiornamento”.",
-      "contact-title": "contatto",
-      "contact-text": "per qualsiasi domanda sulla privacy contattami:",
-      "contact-email": "via email: <1>contact@ilijaruzic.rs</1>",
-      "contact-page": "tramite il sito: <1>ilijaruzic.rs/contact</1>"
-    },
-    "security-policy": {
-      "heading": "politica sulla sicurezza",
-      "description": "scopri le misure e le politiche di sicurezza implementate su ilijaruzic.rs per proteggere i dati degli utenti e garantire interazioni sicure.",
-      "last-updated": "ultimo aggiornamento: 07/06/2025",
-      "scope-intro": "questa politica sulla sicurezza spiega come il sito ilijaruzic.rs (\"il sito\") protegge la sicurezza del sito e come puoi segnalare problemi.",
-      "data-collection-title": "raccolta dati",
-      "data-collection-description": "il sito raccoglie dati limitati relativi alla sicurezza e al funzionamento del sito, tra cui:",
-      "data-collection-list": [
-		"informazioni inviate tramite il modulo di contatto (nome, email, messaggio)",
-		"dati tecnici dalle sezioni user agent e navigator."
-      ],
-      "reporting-title": "segnalazione di problemi di sicurezza",
-      "reporting-description": "se scopri una vulnerabilità di sicurezza, segnalala responsabilmente inviandomi informazioni dettagliate via email. evita la divulgazione pubblica fino alla risoluzione del problema.",
-      "response-title": "risposta e risoluzione",
-      "response-description": "mi impegno a riconoscere la tua segnalazione entro 3 giorni lavorativi e a tenerti informato mentre lavoro sul problema.",
-      "recommendations-title": "raccomandazioni per la sicurezza",
-      "recommendations-description": "si prega di comunicare informazioni sensibili solo tramite canali sicuri.",
-      "disclaimer-title": "disclaimer",
-      "disclaimer-text": "anche se mi impegno a mantenere la sicurezza, nessun sistema è sicuro al 100%. Usa il sito a tuo rischio.",
-      "changes-title": "modifiche alla politica",
-      "changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno visualizzate in questa pagina con una nuova data di “ultimo aggiornamento”.",
-      "contact-title": "contatto",
-      "contact-text": "per questioni di sicurezza puoi contattarmi:",
-      "contact-email": "via email: <1>security@ilijaruzic.rs</1>"
-    }
+		"heading": "politica sulla privacy",
+		"description": "leggi la politica sulla privacy di ilijaruzic.rs per capire come i dati degli utenti vengono raccolti, utilizzati e protetti su questo sito web.",
+		"last-updated": "ultimo aggiornamento: 07/02/2026",
+		"intro-paragraph": "questa politica sulla privacy spiega come il sito ilijaruzic.rs (“il sito”) gestisce i dati degli utenti. il sito è gestito dal suo proprietario, responsabile di eventuali dati personali trattati tramite esso.",
+		"data-title": "raccolta dati",
+		"data-text": "il sito utilizza alcuni cookie e tecnologie del browser per migliorare la tua esperienza e consentire le funzionalità principali, tra cui:",
+		"data-list": [
+			"cookie 'theme' per gestire la modalità chiaro/scuro",
+			"cookie 'locale' per impostare la lingua (en/rs/ru/it)",
+			"cookie 'cookie-consent' per ricordare la tua preferenza",
+			"dati personali (nome ed email) utilizzati esclusivamente per rispondere alle richieste inviate tramite il modulo di contatto, sulla base del tuo consenso",
+			"funzionalità del browser come la proprietà navigator.online per rilevare la connettività di rete; questo meccanismo opera interamente lato client e non raccoglie né trasmette dati personali"
+		],
+		"no-data-text": "il sito non raccoglie:",
+		"no-data-list": [
+			"dati personali o di utilizzo aggiuntivi oltre a quelli necessari",
+			"indirizzo ip, tipo di browser o informazioni sul dispositivo per tracciamento o analisi",
+			"dati provenienti da social network di terze parti per login o profilazione"
+		],
+		"links-title": "link ad altri siti",
+		"links-text": "il sito può contenere link a pagine esterne che non controllo. ti invito a consultare le loro politiche sulla privacy, poiché non sono responsabile dei loro contenuti o pratiche.",
+		"changes-title": "modifiche alla politica",
+		"changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno pubblicate su questa pagina con una nuova data di “ultimo aggiornamento”.",
+		"contact-title": "contatto",
+		"contact-text": "hai il diritto di richiedere accesso, correzione o cancellazione dei tuoi dati personali, nonché limitazione o opposizione al loro trattamento, e di presentare reclamo all’autorità di controllo competente. i dati personali sono conservati solo per il tempo necessario a rispondere alla tua richiesta. il sito può essere ospitato da un fornitore terzo che tratta dati tecnici limitati (come gli indirizzi IP) per motivi di sicurezza e funzionamento del server. per qualsiasi domanda relativa alla privacy, contattami:",
+		"contact-email": "via email: <1>contact@ilijaruzic.rs</1>",
+		"contact-page": "tramite il sito: <1>ilijaruzic.rs/contact</1>"
+		},
+		"security-policy": {
+		"heading": "politica sulla sicurezza",
+		"description": "scopri le misure e le politiche di sicurezza implementate su ilijaruzic.rs per proteggere i dati degli utenti e garantire interazioni sicure.",
+		"last-updated": "ultimo aggiornamento: 07/02/2026",
+		"scope-intro": "questa politica sulla sicurezza spiega come il sito ilijaruzic.rs (“il sito”) protegge la sicurezza del sito e come puoi segnalare eventuali problemi.",
+		"data-collection-title": "raccolta dati",
+		"data-collection-description": "il sito tratta informazioni limitate strettamente necessarie per la sicurezza e il funzionamento, tra cui:",
+		"data-collection-list": [
+			"informazioni fornite volontariamente tramite il modulo di contatto (nome, email, messaggio)",
+			"segnali tecnici di base necessari per una comunicazione sicura e il corretto funzionamento del sito"
+		],
+		"reporting-title": "segnalazione di problemi di sicurezza",
+		"reporting-description": "se scopri una vulnerabilità di sicurezza, segnalala responsabilmente inviando informazioni dettagliate via email. evita la divulgazione pubblica finché il problema non è stato risolto.",
+		"response-title": "risposta e risoluzione",
+		"response-description": "le segnalazioni vengono generalmente confermate entro 3 giorni lavorativi e vengono compiuti sforzi ragionevoli per indagare e risolvere i problemi confermati.",
+		"recommendations-title": "raccomandazioni per la sicurezza",
+		"recommendations-description": "evita di inviare informazioni altamente sensibili tramite canali non sicuri e utilizza le pratiche standard di sicurezza su internet.",
+		"disclaimer-title": "disclaimer",
+		"disclaimer-text": "pur adottando misure ragionevoli per mantenere la sicurezza, nessun sistema può essere garantito come completamente sicuro. l’utilizzo del sito avviene a proprio rischio.",
+		"changes-title": "modifiche alla politica",
+		"changes-text": "questa politica può essere aggiornata di tanto in tanto; eventuali revisioni saranno pubblicate su questa pagina con una nuova data di “ultimo aggiornamento”.",
+		"contact-title": "contatto",
+		"contact-text": "per questioni di sicurezza o segnalazioni di vulnerabilità, puoi contattarmi:",
+		"contact-email": "via email: <1>security@ilijaruzic.rs</1>"
+		}
   },
   "network": {
     "offline": "sei offline. alcune funzionalità potrebbero essere limitate.",
