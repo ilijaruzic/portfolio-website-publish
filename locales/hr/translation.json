@@ -468,6 +468,8 @@
     "subtitle": "molimo pričekajte dok učitavamo sadržaj — to može potrajati trenutak."
   },
   "search": {
+    "title": "pretraga",
+    "subtitle": "pronađite stranice, projekte i objave na stranici",
     "placeholder": "pretraži stranicu...",
     "in-progress": "pretraga u tijeku",
     "no-results": "nema rezultata"

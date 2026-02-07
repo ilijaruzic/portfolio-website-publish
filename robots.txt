@@ -8,13 +8,22 @@ Disallow: /*/en
 
 Disallow: /thank-you
 Disallow: /forbidden
+Disallow: /search
+
 Disallow: /rs/thank-you
 Disallow: /rs/forbidden
+Disallow: /rs/search
+
 Disallow: /ru/thank-you
 Disallow: /ru/forbidden
+Disallow: /ru/search
+
 Disallow: /it/thank-you
 Disallow: /it/forbidden
+Disallow: /it/search
+
 Disallow: /hr/thank-you
 Disallow: /hr/forbidden
+Disallow: /hr/search
 
 Sitemap: https://ilijaruzic.rs/sitemap.xml

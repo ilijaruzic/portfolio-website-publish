@@ -468,6 +468,8 @@
 		"subtitle": "attendi mentre carichiamo il contenuto. potrebbe volerci un momento."
 	},
 	"search": {
+		"title": "cerca",
+		"subtitle": "trova pagine, progetti e post sul sito",
 		"placeholder": "cerca nel sito...",
 		"in-progress": "ricerca in corso",
 		"no-results": "nessun risultato"
