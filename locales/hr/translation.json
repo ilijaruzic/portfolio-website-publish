@@ -467,6 +467,11 @@
     "title": "učitavanje... 🔃",
     "subtitle": "molimo pričekajte dok učitavamo sadržaj — to može potrajati trenutak."
   },
+  "search": {
+    "placeholder": "pretraži stranicu...",
+    "in-progress": "pretraga u tijeku",
+    "no-results": "nema rezultata"
+  },
   "errors": {
     "under-construction": {
       "title": "u izradi! 🚧",
@@ -481,7 +486,10 @@
     "404": {
       "title": "ups! 😥",
       "subtitle": "404 — stranica nije pronađena.",
-      "description": "stranica koju tražite je uklonjena ili je privremeno nedostupna."
+      "description": "stranica koju tražite je uklonjena ili je privremeno nedostupna.",
+      "search-placeholder": "pretraži sajt...",
+      "search-in-progress": "pretraga u toku",
+      "no-results": "nema rezultata"
     },
     "zoom-guard": {
       "title": "nepodržana razina uvećanja! 🔎",

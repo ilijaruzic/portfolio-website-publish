@@ -467,6 +467,11 @@
     "title": "loading... 🔃",
     "subtitle": "please wait while we load the content — this might take a moment."
   },
+  "search": {
+    "placeholder": "search the site...",
+    "in-progress": "search in progress",
+    "no-results": "no results"
+  },
   "errors": {
     "under-construction": {
       "title": "under construction! 🚧",

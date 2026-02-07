@@ -467,6 +467,11 @@
 		"title": "caricamento... 🔃",
 		"subtitle": "attendi mentre carichiamo il contenuto. potrebbe volerci un momento."
 	},
+	"search": {
+		"placeholder": "cerca nel sito...",
+		"in-progress": "ricerca in corso",
+		"no-results": "nessun risultato"
+	},
 	"errors": {
 		"under-construction": {
 			"title": "in costruzione! 🚧",
@@ -481,7 +486,10 @@
 		"404": {
 			"title": "ops! 😥",
 			"subtitle": "404 - pagina non trovata.",
-			"description": "la pagina che stai cercando potrebbe essere stata rimossa o essere temporaneamente non disponibile."
+			"description": "la pagina che stai cercando potrebbe essere stata rimossa o essere temporaneamente non disponibile.",
+			"search-placeholder": "cerca il sito...",
+			"search-in-progress": "ricerca in corso",
+			"no-results": "nessun risultato"
 		},
         "zoom-guard": {
             "title": "livello di zoom non supportato! 🔎",
