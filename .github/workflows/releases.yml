@@ -13,34 +13,28 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout full history
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Install GitHub CLI
-        run: sudo apt-get update && sudo apt-get install -y gh
+      - run: sudo apt-get update && sudo apt-get install -y gh
 
-      - name: Find release commits
-        run: |
-          git log --pretty=format:"%H|%s" \
-            | grep "Release release/" > releases.txt || true
+      - run: git log --pretty=format:"%H|%s" > commits.txt
 
-      - name: Create missing GitHub Releases
-        env:
+      - env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           while IFS="|" read -r sha message; do
-            version=$(echo "$message" | sed -E 's/^Release release\/([0-9\.]+).*/\1/')
-            tag="v$version"
-
-            if gh release view "$tag" >/dev/null 2>&1; then
-              echo "Release already exists: $tag"
-            else
-              echo "Creating GitHub Release: $tag (commit $sha)"
-              gh release create "$tag" \
-                --target "$sha" \
-                --title "$tag" \
-                --notes "Automatic release for $tag"
+            version=$(echo "$message" | grep -oE 'release/[0-9]+\.[0-9]+' | head -n1 | cut -d'/' -f2)
+            if [ -z "$version" ]; then
+              continue
             fi
-          done < releases.txt
+            tag="v$version"
+            if gh release view "$tag" >/dev/null 2>&1; then
+              continue
+            fi
+            gh release create "$tag" \
+              --target "$sha" \
+              --title "$tag" \
+              --notes "Automatic release for $tag"
+          done < commits.txt
